@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mental Health Analysis - Finance</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet"/>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      background-color: #f4f7fa;
+      color: #333;
+      line-height: 1.6;
+      padding: 30px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      color: #2E3B4E;
+      font-size: 32px;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      color: #444;
+      font-size: 22px;
+      margin-top: 30px;
+    }
+
+    p {
+      margin-bottom: 15px;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: #2E3B4E;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      margin-top: 20px;
+    }
+
+    .btn:hover {
+      background-color: #1e2a38;
+    }
+
+    ul {
+      margin: 10px 0 20px 20px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .kpi {
+      background-color: #f0f4f7;
+      padding: 10px 20px;
+      border-left: 5px solid #2E3B4E;
+      margin-bottom: 15px;
+      border-radius: 6px;
+    }
+
+    .slider-wrapper {
+        position: relative;
+        max-width: 100%;
+        overflow: hidden;
+        margin-top: 20px;
+    }
+
+    .slider-track {
+        display: flex;
+        width: 100%;
+        transition: transform 0.5s ease-in-out;
+    }
+
+    .slide {
+        width: 100%;
+        flex-shrink: 0;
+        padding: 10px;
+        box-sizing: border-box;
+        background: #fff;
+    }
+
+    .slide img {
+        width: 100%;
+        border-radius: 10px;
+        border: 2px solid #333;
+    }
+
+    .prev, .next {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: #2E3B4E;
+        color: white;
+        border: none;
+        padding: 12px;
+        font-size: 20px;
+        border-radius: 35%;
+        cursor: pointer;
+        z-index: 10;
+    }
+    .prev { left: 10px; }
+    .next { right: 10px; }
+
+    .prev:hover, .next:hover {
+        background-color: #1e2a38;
+    }
+
+    #backToTopBtn {
+        display: none; /* Hidden by default */
+        position: fixed;
+        bottom: 25px;
+        right: 25px;
+        z-index: 99;
+        border: none;
+        outline: none;
+        background-color: white;
+        color: white;
+        cursor: pointer;
+        padding: 12px 16px;
+        font-size: 25px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+    #backToTopBtn:hover {
+        background-color: #1e2a38;
+    }
+
+    @media screen and (max-width: 768px) {
+        .slide img {
+            height: auto;
+            width: 100%;
+        }
+        .btn {
+            font-size: 14px;
+            padding: 10px 16px;
+        }
+        .prev, .next {
+            font-size: 16px;
+            padding: 10px;
+        }
+    }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mental Health Analysis – Finance</h1>
+        <p><strong>Project Type:</strong> Power BI Dashboard <strong>|</strong> Data Analytics <strong>|</strong> Mental Health + Finance</p>
+
+        <h2>🔍 Project Summary</h2>
+        <p>This project provides an in-depth analysis of how various financial conditions—such as income, debt, expenses, and support systems—impact the mental health of individuals.
+            Built using <strong>Microsoft Power BI</strong> with a finance dataset, this dashboard helps identify patterns, stress triggers, and at-risk population groups.
+        </p>
+
+        <h2>📂 Download Project Files</h2>
+        <a href="Finance_Dataset.csv" class="btn" download>📊 Download Excel Dataset</a>
+        <a href="Mental_Health_Analysis-Finance.pbix" class="btn" download>📁 Download Power BI File (.pbix)</a>
+        <a href="Mental_Health_Analysis-Finance.pdf" class="btn" download>📄 Download PDF Report</a>
+        <a href="https://app.powerbi.com/links/pFDzDBSUq6?ctid=f5d7ac83-00fe-464a-97d1-3898bd775434&pbi_source=linkShare" class="btn" target="_blank">🔎 View Dashboard</a>
+
+        <h2>📸 Dashboard Preview</h2>
+        <div class="slider-wrapper">
+            <div class="slider-track" id="sliderTrack">
+                <div class="slide"><img src="1_Overview_Dashboard.png" alt="Overview"></div>
+                <div class="slide"><img src="2_Stress_&_Work-Balance-Analysis_Dashboard.png" alt="Stress"></div>
+                <div class="slide"><img src="3_Savings_&_Income_Dashboard.png" alt="Savings"></div>
+                <div class="slide"><img src="4_Loan_&_Financial-Support_Dashboard.png" alt="Loans"></div>
+            </div>
+            <button class="prev" onclick="moveSlide(-1)">❮</button>
+            <button class="next" onclick="moveSlide(1)">❯</button>
+        </div>
+
+        <h2>📈 Key Insights</h2>
+        <ul>
+            <li><strong>47.22%</strong> of people report high stress levels.</li>
+            <li><strong>42.56%</strong> are living with debt or loans.</li>
+            <li><strong>35.89%</strong> have poor work-life balance, strongly linked to stress.</li>
+            <li><strong>75.67%</strong> do not have job security.</li>
+            <li><strong>44.44%</strong> save less than 20% of their income.</li>
+            <li>Students and unemployed individuals often have <strong>negative</strong> disposable income.</li>
+        </ul>
+
+        <h2>🛠️ Tools & Technologies</h2>
+        <ul>
+            <li>Power BI for dashboard creation and visualization</li>
+            <li>Python (Pandas, Random) for data generation and preprocessing</li>
+            <li>Excel/CSV handling and KPI logic design</li>
+        </ul>
+
+        <h2>✅ Solutions Suggested</h2>
+        <div class="kpi">Introduce financial literacy programs and debt counseling for youth and working professionals.</div>
+        <div class="kpi">Encourage savings automation and income diversification for self-employed and freelancers.</div>
+        <div class="kpi">Use mental health support policies in workplaces with poor work-life balance trends.</div>
+        <div class="kpi">Target external support cases (NGO, Government, None) with social welfare schemes.</div>
+
+        <h2>👨‍💻 My Contribution</h2>
+        <ul>
+            <li>Generated synthetic dataset with Python</li>
+            <li>Cleaned and validated data in Excel</li>
+            <li>Built dynamic dashboards in Power BI</li>
+            <li>Designed conditional KPIs and page navigation</li>
+            <li>Deployed project using GitHub Pages</li>
+        </ul>
+
+        <h2>🧠 Skills Demonstrated</h2>
+        <ul>
+            <li>Data Cleaning & Validation</li>
+            <li>Dashboard Design (Multi-page, KPI Cards, Navigation)</li>
+            <li>Power BI (Slicers, Measures, Visuals)</li>
+            <li>DAX (KPI logic, calculated fields)</li>
+            <li>HTML & GitHub Hosting</li>
+        </ul>
+
+        <h2>🛠️ Challenges Faced</h2>
+        <ul>
+            <li>Power BI account restrictions blocked dashboard publishing → used PDF export temporarily</li>
+            <li>Managed negative disposable income logic with DAX validation</li>
+            <li>Designed color-consistent KPIs using conditional formatting</li>
+        </ul>
+
+        <h2>🚀 Future Enhancements</h2>
+        <ul>
+            <li>Add drill-through functionality in Power BI</li>
+            <li>Use real survey-based mental health datasets</li>
+            <li>Enable dynamic storytelling with bookmarks</li>
+        </ul>
+
+        <h2>📁 Source Code</h2>
+        <a href="https://github.com/harshad-yourrepo" class="btn" target="_blank">View GitHub Repository</a>
+
+        <h2>📞 Let's Connect</h2>
+        <p>For internships, collaborations, or feedback — reach out!</p>
+        <a href="https://www.linkedin.com/in/harshad-dhongade" class="btn" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="height: 18px; vertical-align: middle; margin-right: 8px;">
+            Connect on LinkedIn
+        </a>
+        <a href="Harshad_Resume.pdf" class="btn" target="_blank">📄 View My Resume</a>
+    </div>
+    
+    <button onclick="scrollToTop()" id="backToTopBtn" title="Go to top">🔝</button>
+
+    <script>
+        let currentSlide = 0;
+        const totalSlides = document.querySelectorAll('.slide').length;
+        const track = document.getElementById('sliderTrack');
+
+        function moveSlide(step) {
+            currentSlide = (currentSlide + step + totalSlides) % totalSlides;
+            track.style.transform = `translateX(-${currentSlide * 100}%)`;
+        }
+    </script>
+
+    <script>
+        // Show button after scrolling 400px
+        window.onscroll = function() {
+            const btn = document.getElementById("backToTopBtn");
+            if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+                btn.style.display = "block";
+            } else {
+                btn.style.display = "none";
+            }
+        };
+
+        function scrollToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    </script>
+</body>
+</html>

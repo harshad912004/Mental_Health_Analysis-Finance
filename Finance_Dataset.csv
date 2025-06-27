@@ -1,0 +1,901 @@
+Person_ID,Age,Gender,Employment_Status,Monthly_Income_₹,Monthly_Expenses_₹,Disposable_Income_₹,Loan_Type,Has_Debt,Savings_Rate_%,Job_Security,Retirement_Planning,Financial_Support_Source,Work_Life_Balance,Stress_Level
+F0001,60,Female,Self-Employed,42179,42874,-695,Personal,Yes,0.0,No,No,Family,Poor,High
+F0002,36,Male,Self-Employed,48355,19067,29288,Education,Yes,49.97,No,No,NGO,Average,High
+F0003,64,Male,Self-Employed,32859,18632,14227,Home,Yes,43.3,No,No,Family,Good,Moderate
+F0004,54,Female,Unemployed,3805,6343,-2538,None,No,0.0,No,No,NGO,Poor,High
+F0005,32,Female,Unemployed,2647,1587,1060,None,No,6.73,No,No,Government,Good,Low
+F0006,71,Female,Unemployed,3491,6917,-3426,None,No,0.0,No,No,Government,Average,High
+F0007,61,Female,Self-Employed,42734,30872,11862,Education,Yes,47.95,No,No,None,Poor,High
+F0008,31,Female,Unemployed,2157,1079,1078,None,No,14.09,No,No,None,Poor,High
+F0009,60,Male,Working Professional,69655,60593,9062,None,No,13.01,Yes,No,NGO,Poor,Moderate
+F0010,56,Female,Unemployed,2722,5055,-2333,None,No,0.0,No,No,Self,Average,High
+F0011,33,Male,Unemployed,3149,1746,1403,None,No,8.55,No,No,Government,Good,Low
+F0012,31,Male,Self-Employed,47640,38179,9461,Vehicle,Yes,40.24,No,No,Self,Average,High
+F0013,36,Male,Self-Employed,31564,23290,8274,Home,Yes,26.21,No,No,Self,Average,High
+F0014,30,Male,Retired,32654,24540,8114,None,No,24.85,Yes,No,Self,Average,Low
+F0015,27,Female,Unemployed,2998,2210,788,None,No,12.77,No,No,Government,Average,Moderate
+F0016,30,Female,Unemployed,3929,7546,-3617,None,No,0.0,No,No,Self,Good,Moderate
+F0017,35,Female,Unemployed,2894,3765,-871,None,No,0.0,No,No,Government,Good,Moderate
+F0018,17,Male,Student,2590,2559,31,None,No,20.2,No,No,Self,Poor,High
+F0019,67,Male,Working Professional,66014,19104,46910,Vehicle,Yes,30.92,Yes,Yes,None,Average,Moderate
+F0020,52,Male,Self-Employed,37350,21520,15830,Vehicle,Yes,41.94,No,No,None,Poor,High
+F0021,36,Male,Self-Employed,49724,30944,18780,None,No,37.77,No,No,NGO,Good,Low
+F0022,56,Female,Retired,28835,11158,17677,None,No,65.38,Yes,No,Self,Poor,Moderate
+F0023,61,Male,Unemployed,2250,4476,-2226,None,No,0.0,No,No,Family,Good,Moderate
+F0024,43,Female,Retired,32741,20695,12046,None,No,66.38,Yes,No,Self,Poor,Moderate
+F0025,51,Female,Working Professional,62590,56852,5738,None,No,9.17,Yes,No,NGO,Poor,Moderate
+F0026,59,Male,Retired,32218,27916,4302,None,No,74.94,Yes,Yes,Self,Good,Low
+F0027,33,Male,Self-Employed,44550,32829,11721,None,No,26.31,No,No,Self,Poor,High
+F0028,22,Female,Student,2082,1310,772,None,No,25.24,No,No,Self,Good,Low
+F0029,25,Male,Retired,23106,24488,-1382,None,No,0.0,No,No,NGO,Good,Moderate
+F0030,49,Female,Retired,30106,5162,24944,None,No,66.45,No,Yes,Government,Poor,High
+F0031,29,Female,Self-Employed,33457,5881,27576,Education,Yes,37.96,No,No,Family,Poor,High
+F0032,57,Male,Self-Employed,41567,17293,24274,Personal,Yes,34.79,No,No,NGO,Average,High
+F0033,22,Female,Student,2648,1984,664,None,No,25.08,No,No,NGO,Average,Moderate
+F0034,56,Male,Working Professional,67121,39144,27977,Home,Yes,53.68,Yes,No,None,Poor,Moderate
+F0035,19,Female,Student,1902,3787,-1885,None,No,0.0,No,No,Self,Good,Moderate
+F0036,64,Male,Retired,28387,28083,304,None,No,70.12,Yes,No,Family,Average,Moderate
+F0037,49,Female,Self-Employed,45896,8840,37056,Vehicle,Yes,45.14,No,No,Government,Good,Moderate
+F0038,33,Female,Unemployed,2025,1488,537,None,No,26.52,No,No,None,Poor,High
+F0039,62,Female,Unemployed,3300,3864,-564,None,No,0.0,No,No,NGO,Poor,High
+F0040,69,Male,Retired,26772,6730,20042,None,No,70.72,No,No,None,Poor,High
+F0041,45,Male,Self-Employed,30426,10957,19469,Vehicle,Yes,63.99,No,No,Self,Poor,High
+F0042,22,Female,Student,1220,1986,-766,None,No,0.0,No,No,None,Poor,High
+F0043,58,Female,Unemployed,2186,2500,-314,None,No,0.0,No,No,Self,Poor,High
+F0044,19,Male,Student,2360,3307,-947,Education,Yes,0.0,No,No,Self,Average,High
+F0045,42,Male,Self-Employed,31959,3858,28101,Personal,Yes,38.19,No,No,NGO,Poor,High
+F0046,57,Male,Retired,22842,16271,6571,None,No,28.77,No,No,None,Good,Low
+F0047,71,Female,Unemployed,2819,1446,1373,None,No,8.58,No,No,NGO,Average,Moderate
+F0048,30,Female,Retired,25497,19671,5826,None,No,65.8,Yes,Yes,Family,Good,Low
+F0049,68,Male,Retired,38777,11963,26814,None,No,64.03,No,No,Family,Poor,High
+F0050,73,Male,Working Professional,60445,39256,21189,Personal,Yes,35.06,No,No,None,Poor,High
+F0051,37,Male,Working Professional,66853,41666,25187,Home,Yes,51.9,Yes,Yes,NGO,Average,Moderate
+F0052,38,Male,Unemployed,2928,4415,-1487,None,No,0.0,No,No,Family,Poor,High
+F0053,30,Female,Unemployed,2146,1290,856,None,No,9.25,No,No,None,Poor,High
+F0054,41,Male,Unemployed,3804,7285,-3481,None,No,0.0,No,No,None,Poor,High
+F0055,62,Male,Working Professional,68274,42221,26053,None,No,51.34,Yes,Yes,NGO,Good,Low
+F0056,65,Female,Working Professional,64443,10374,54069,Vehicle,Yes,35.58,Yes,Yes,Family,Good,Low
+F0057,23,Female,Fresher,13720,16431,-2711,Personal,Yes,0.0,No,No,Government,Good,High
+F0058,46,Female,Unemployed,2164,4210,-2046,None,No,0.0,No,No,Government,Average,High
+F0059,67,Female,Unemployed,3985,4874,-889,None,No,0.0,No,No,NGO,Poor,High
+F0060,56,Male,Self-Employed,49592,53023,-3431,Home,Yes,0.0,No,No,None,Poor,High
+F0061,53,Male,Working Professional,62979,67623,-4644,Home,Yes,0.0,Yes,No,Government,Good,Moderate
+F0062,18,Male,Student,2529,4677,-2148,None,No,0.0,No,No,None,Average,High
+F0063,41,Female,Unemployed,3441,4534,-1093,None,No,0.0,No,No,None,Good,Moderate
+F0064,25,Male,Working Professional,66264,16278,49986,Personal,Yes,36.61,No,Yes,NGO,Good,Moderate
+F0065,34,Female,Retired,29354,25343,4011,None,No,13.66,Yes,Yes,None,Average,Low
+F0066,38,Female,Unemployed,2550,3733,-1183,None,No,0.0,No,No,None,Average,High
+F0067,42,Male,Unemployed,3516,4249,-733,None,No,0.0,No,No,NGO,Good,Moderate
+F0068,39,Female,Retired,37863,13341,24522,None,No,70.29,No,No,Family,Average,Moderate
+F0069,17,Male,Student,2557,2473,84,None,No,3.29,No,No,Family,Poor,High
+F0070,18,Female,Student,2885,3926,-1041,None,No,0.0,No,No,Government,Average,High
+F0071,31,Female,Unemployed,2106,3476,-1370,None,No,0.0,No,No,Family,Poor,High
+F0072,50,Female,Self-Employed,40444,9933,30511,Home,Yes,42.56,No,No,Family,Good,Moderate
+F0073,27,Female,Working Professional,68476,3800,64676,Education,Yes,32.04,Yes,No,NGO,Poor,Moderate
+F0074,53,Male,Retired,21059,20818,241,None,No,1.14,Yes,No,Self,Good,Low
+F0075,58,Female,Self-Employed,49180,10503,38677,Education,Yes,37.79,No,No,NGO,Poor,High
+F0076,28,Male,Retired,25786,25998,-212,None,No,0.0,Yes,No,NGO,Poor,High
+F0077,52,Male,Unemployed,3526,5408,-1882,None,No,0.0,No,No,Self,Poor,High
+F0078,41,Male,Working Professional,62623,19161,43462,None,No,50.15,No,No,None,Average,Moderate
+F0079,31,Male,Retired,30781,13264,17517,None,No,56.25,No,No,Self,Poor,High
+F0080,67,Female,Unemployed,3087,1880,1207,None,No,39.1,No,No,Government,Good,Low
+F0081,47,Male,Retired,34630,24494,10136,None,No,29.27,Yes,No,Family,Average,Low
+F0082,55,Male,Unemployed,2960,1660,1300,None,No,13.22,No,No,Government,Good,Low
+F0083,34,Male,Retired,39524,24534,14990,None,No,55.9,Yes,Yes,Government,Good,Low
+F0084,48,Female,Retired,27169,8860,18309,None,No,63.54,Yes,No,NGO,Average,Low
+F0085,66,Female,Working Professional,66347,46232,20115,Home,Yes,30.32,Yes,No,None,Poor,Moderate
+F0086,47,Male,Unemployed,2375,1292,1083,None,No,11.79,No,No,Self,Good,Low
+F0087,28,Male,Unemployed,3137,4297,-1160,None,No,0.0,No,No,Government,Average,High
+F0088,35,Female,Working Professional,60797,46831,13966,Vehicle,Yes,49.39,No,No,None,Good,Moderate
+F0089,58,Male,Retired,38313,39578,-1265,None,No,0.0,Yes,No,None,Good,Low
+F0090,60,Female,Unemployed,2759,2163,596,None,No,14.25,No,No,Government,Good,Low
+F0091,72,Female,Retired,34560,32543,2017,None,No,5.84,No,No,Self,Poor,High
+F0092,21,Male,Student,1892,3764,-1872,None,No,0.0,No,No,NGO,Poor,High
+F0093,32,Male,Working Professional,63760,26165,37595,Home,Yes,43.0,No,Yes,NGO,Poor,High
+F0094,19,Female,Student,1050,1974,-924,Education,Yes,0.0,No,No,Self,Poor,High
+F0095,47,Female,Working Professional,65177,32016,33161,Education,Yes,31.44,No,Yes,Family,Average,High
+F0096,57,Male,Self-Employed,37352,29073,8279,Personal,Yes,22.16,No,No,NGO,Poor,High
+F0097,20,Female,Student,1252,2144,-892,Education,Yes,0.0,No,No,NGO,Poor,High
+F0098,18,Female,Student,1777,3053,-1276,Education,Yes,0.0,No,No,Government,Good,High
+F0099,25,Female,Self-Employed,37009,24917,12092,Personal,Yes,43.33,No,No,Self,Good,Moderate
+F0100,30,Female,Unemployed,3340,5381,-2041,None,No,0.0,No,No,Family,Average,High
+F0101,25,Male,Working Professional,68897,3130,65767,Personal,Yes,37.65,Yes,Yes,Government,Good,Low
+F0102,46,Female,Self-Employed,42673,33311,9362,None,No,21.94,No,No,Family,Average,Moderate
+F0103,18,Male,Student,2742,3716,-974,None,No,0.0,No,No,Family,Good,Moderate
+F0104,68,Male,Unemployed,2213,3332,-1119,None,No,0.0,No,No,Self,Average,High
+F0105,45,Male,Self-Employed,30756,26402,4354,Vehicle,Yes,39.5,No,No,Self,Good,Moderate
+F0106,61,Male,Working Professional,63051,14878,48173,Vehicle,Yes,52.63,No,Yes,Self,Average,High
+F0107,33,Female,Self-Employed,41991,29935,12056,Home,Yes,28.71,No,No,Government,Average,High
+F0108,51,Female,Retired,35345,21350,13995,None,No,71.24,No,Yes,Self,Average,Moderate
+F0109,21,Male,Student,1865,1262,603,None,No,32.33,No,No,Family,Poor,High
+F0110,40,Male,Self-Employed,41215,43593,-2378,Education,Yes,0.0,No,No,Self,Poor,High
+F0111,61,Female,Unemployed,3604,6810,-3206,None,No,0.0,No,No,Government,Poor,High
+F0112,37,Female,Unemployed,3866,7302,-3436,None,No,0.0,No,No,Family,Poor,High
+F0113,44,Male,Retired,23794,26276,-2482,None,No,0.0,No,Yes,NGO,Poor,High
+F0114,73,Male,Self-Employed,44653,27669,16984,Vehicle,Yes,43.5,No,No,Family,Poor,High
+F0115,28,Male,Working Professional,66137,61426,4711,Vehicle,Yes,7.12,Yes,Yes,Family,Average,Moderate
+F0116,25,Male,Self-Employed,43319,19351,23968,Home,Yes,33.8,No,No,NGO,Poor,High
+F0117,29,Female,Working Professional,61223,18086,43137,Home,Yes,38.9,Yes,Yes,Family,Good,Low
+F0118,28,Male,Unemployed,3912,3627,285,None,No,7.29,No,No,NGO,Good,Moderate
+F0119,34,Female,Retired,33946,10943,23003,None,No,57.3,No,Yes,Government,Poor,High
+F0120,59,Male,Self-Employed,30352,1066,29286,Home,Yes,32.52,No,No,Family,Average,High
+F0121,53,Male,Working Professional,66960,60724,6236,Personal,Yes,9.31,No,No,None,Good,Moderate
+F0122,39,Male,Self-Employed,38130,11532,26598,Education,Yes,49.09,No,No,Government,Good,Moderate
+F0123,44,Female,Working Professional,64991,40461,24530,Home,Yes,37.74,Yes,No,NGO,Average,Moderate
+F0124,23,Female,Fresher,13714,17145,-3431,Education,Yes,0.0,Yes,No,None,Average,High
+F0125,63,Male,Retired,27238,26155,1083,None,No,67.9,Yes,No,Government,Good,Low
+F0126,31,Male,Unemployed,3541,6772,-3231,None,No,0.0,No,No,Self,Poor,High
+F0127,49,Male,Self-Employed,40512,20886,19626,None,No,47.32,No,No,NGO,Average,Moderate
+F0128,40,Male,Self-Employed,43455,12892,30563,Home,Yes,48.48,No,No,Family,Good,Moderate
+F0129,58,Male,Retired,32773,10133,22640,None,No,60.08,No,No,Family,Poor,High
+F0130,58,Male,Self-Employed,45289,13204,32085,Personal,Yes,32.38,No,No,Government,Poor,High
+F0131,57,Female,Self-Employed,42790,11629,31161,Personal,Yes,45.71,No,No,Self,Poor,High
+F0132,35,Female,Self-Employed,38991,25427,13564,Home,Yes,34.79,No,No,NGO,Good,Moderate
+F0133,22,Male,Student,1742,1742,0,None,No,0.0,No,No,NGO,Poor,High
+F0134,48,Male,Working Professional,65404,40608,24796,None,No,32.62,Yes,Yes,Self,Poor,Moderate
+F0135,37,Female,Working Professional,65596,12972,52624,Vehicle,Yes,39.71,Yes,Yes,None,Poor,Moderate
+F0136,48,Male,Unemployed,3293,1367,1926,None,No,7.26,No,No,Family,Good,Low
+F0137,70,Female,Working Professional,60468,18302,42166,Vehicle,Yes,52.48,Yes,No,None,Average,Moderate
+F0138,54,Female,Retired,37172,19734,17438,None,No,46.91,No,Yes,None,Average,Moderate
+F0139,57,Male,Retired,22075,23935,-1860,None,No,0.0,Yes,Yes,Self,Average,Moderate
+F0140,16,Male,Student,1693,1891,-198,Education,Yes,0.0,No,No,Government,Average,High
+F0141,66,Female,Unemployed,2055,2795,-740,None,No,0.0,No,No,Government,Good,Moderate
+F0142,51,Female,Self-Employed,46463,11234,35229,None,No,35.36,No,No,Government,Average,Moderate
+F0143,37,Female,Unemployed,2468,2616,-148,None,No,0.0,No,No,Government,Poor,High
+F0144,53,Female,Unemployed,2459,3467,-1008,None,No,0.0,No,No,None,Poor,High
+F0145,61,Male,Retired,27077,3712,23365,None,No,57.07,No,No,Family,Good,Low
+F0146,53,Male,Unemployed,3462,5496,-2034,None,No,0.0,No,No,Self,Good,Moderate
+F0147,66,Female,Unemployed,2410,1474,936,None,No,8.79,No,No,Self,Average,Moderate
+F0148,69,Male,Retired,34951,36120,-1169,None,No,0.0,No,No,Family,Good,Moderate
+F0149,43,Male,Self-Employed,46842,41676,5166,Education,Yes,42.53,No,No,Family,Poor,High
+F0150,66,Male,Working Professional,65882,65592,290,Vehicle,Yes,0.44,Yes,No,Government,Average,Moderate
+F0151,25,Female,Self-Employed,32742,22795,9947,Vehicle,Yes,36.67,No,No,Government,Average,High
+F0152,73,Male,Working Professional,61495,62274,-779,Vehicle,Yes,0.0,Yes,Yes,NGO,Average,High
+F0153,70,Male,Retired,30161,28453,1708,None,No,56.9,No,No,Self,Average,High
+F0154,61,Male,Self-Employed,47183,6709,40474,Education,Yes,34.28,No,No,Family,Poor,High
+F0155,22,Male,Student,2167,1155,1012,None,No,19.2,No,No,None,Good,Low
+F0156,24,Female,Fresher,10161,5928,4233,None,No,22.52,Yes,No,Family,Poor,Moderate
+F0157,55,Female,Unemployed,3004,5299,-2295,None,No,0.0,No,No,Family,Poor,High
+F0158,31,Female,Working Professional,68643,61805,6838,Vehicle,Yes,45.32,No,Yes,Self,Good,Moderate
+F0159,48,Male,Working Professional,65525,34061,31464,Personal,Yes,43.04,No,No,NGO,Poor,High
+F0160,29,Male,Unemployed,3582,4043,-461,None,No,0.0,No,No,Government,Good,Moderate
+F0161,75,Male,Self-Employed,39136,23394,15742,Education,Yes,32.1,No,No,Self,Poor,High
+F0162,42,Female,Working Professional,65852,26743,39109,None,No,53.52,Yes,No,None,Average,Low
+F0163,73,Male,Unemployed,2077,1094,983,None,No,47.33,No,No,Family,Average,Moderate
+F0164,62,Female,Self-Employed,48204,22697,25507,None,No,48.03,No,No,Government,Average,Moderate
+F0165,32,Female,Unemployed,2555,1197,1358,None,No,7.89,No,No,Government,Good,Low
+F0166,74,Female,Retired,35197,6299,28898,None,No,56.13,Yes,Yes,Family,Average,Low
+F0167,36,Male,Retired,28533,7844,20689,None,No,70.08,Yes,No,Family,Poor,Moderate
+F0168,26,Female,Retired,32061,6454,25607,None,No,71.4,Yes,Yes,NGO,Good,Low
+F0169,41,Female,Working Professional,63024,48881,14143,Vehicle,Yes,22.44,Yes,Yes,NGO,Poor,Moderate
+F0170,49,Male,Retired,33284,26385,6899,None,No,20.73,Yes,Yes,Family,Good,Low
+F0171,67,Female,Retired,22314,19683,2631,None,No,11.79,Yes,No,None,Average,Low
+F0172,64,Male,Retired,35687,37194,-1507,None,No,0.0,Yes,Yes,None,Good,Low
+F0173,41,Female,Self-Employed,35872,38058,-2186,Education,Yes,0.0,No,No,NGO,Poor,High
+F0174,16,Male,Student,1136,2215,-1079,Education,Yes,0.0,No,No,Family,Average,High
+F0175,34,Male,Self-Employed,42766,22523,20243,Education,Yes,35.21,No,No,NGO,Good,Moderate
+F0176,53,Female,Working Professional,66930,70473,-3543,Personal,Yes,0.0,No,Yes,NGO,Average,High
+F0177,56,Male,Unemployed,2359,1075,1284,None,No,5.84,No,No,Self,Good,Low
+F0178,46,Male,Self-Employed,48882,29537,19345,Education,Yes,47.71,No,No,Family,Poor,High
+F0179,40,Female,Self-Employed,38762,22919,15843,None,No,40.87,No,No,NGO,Poor,High
+F0180,42,Female,Working Professional,64146,5410,58736,Personal,Yes,36.4,No,Yes,Government,Good,Moderate
+F0181,33,Male,Working Professional,62053,33492,28561,Vehicle,Yes,32.63,Yes,No,Government,Average,Moderate
+F0182,17,Female,Student,2540,4679,-2139,None,No,0.0,No,No,Family,Good,Moderate
+F0183,54,Female,Retired,31460,16254,15206,None,No,67.84,Yes,No,Government,Good,Low
+F0184,40,Male,Self-Employed,42474,3240,39234,Vehicle,Yes,46.1,No,No,None,Poor,High
+F0185,75,Female,Retired,28470,4820,23650,None,No,55.35,Yes,No,None,Average,Low
+F0186,49,Female,Working Professional,65602,32787,32815,Personal,Yes,50.02,No,No,Family,Good,Moderate
+F0187,56,Female,Unemployed,3500,5460,-1960,None,No,0.0,No,No,NGO,Poor,High
+F0188,16,Female,Student,1143,1337,-194,None,No,0.0,No,No,Family,Good,Moderate
+F0189,16,Male,Student,1655,1488,167,None,No,18.68,No,No,NGO,Good,Low
+F0190,41,Male,Working Professional,62154,28287,33867,Personal,Yes,52.87,Yes,Yes,Government,Poor,Moderate
+F0191,49,Male,Unemployed,2087,3734,-1647,None,No,0.0,No,No,Self,Poor,High
+F0192,23,Male,Fresher,12853,2340,10513,Home,Yes,20.56,No,No,None,Good,Moderate
+F0193,59,Male,Self-Employed,33314,35171,-1857,Home,Yes,0.0,No,No,NGO,Good,High
+F0194,63,Female,Self-Employed,41769,28474,13295,Vehicle,Yes,34.05,No,No,Government,Good,Moderate
+F0195,22,Female,Student,1165,1995,-830,Education,Yes,0.0,No,No,None,Average,High
+F0196,57,Male,Self-Employed,45365,15459,29906,Home,Yes,33.86,No,No,None,Poor,High
+F0197,75,Male,Unemployed,2533,3208,-675,None,No,0.0,No,No,Government,Good,Moderate
+F0198,17,Male,Student,2334,2389,-55,Education,Yes,0.0,No,No,NGO,Average,High
+F0199,38,Female,Self-Employed,47465,45370,2095,Vehicle,Yes,40.35,No,No,Government,Average,High
+F0200,71,Female,Self-Employed,40829,21274,19555,Education,Yes,32.04,No,No,NGO,Poor,High
+F0201,29,Male,Retired,25904,19596,6308,None,No,24.35,Yes,No,Government,Average,Low
+F0202,25,Male,Self-Employed,46486,18195,28291,Vehicle,Yes,49.03,No,No,Family,Poor,High
+F0203,16,Male,Student,2279,1603,676,Education,Yes,29.66,No,No,NGO,Good,Moderate
+F0204,45,Male,Unemployed,2564,3661,-1097,None,No,0.0,No,No,Government,Poor,High
+F0205,42,Male,Unemployed,2481,4346,-1865,None,No,0.0,No,No,Self,Poor,High
+F0206,70,Female,Self-Employed,36157,19612,16545,Education,Yes,45.75,No,No,None,Good,Moderate
+F0207,49,Male,Retired,37812,10374,27438,None,No,58.74,Yes,Yes,Government,Poor,Moderate
+F0208,35,Female,Unemployed,2881,5185,-2304,None,No,0.0,No,No,Government,Good,Moderate
+F0209,21,Male,Student,1745,2734,-989,None,No,0.0,No,No,Family,Poor,High
+F0210,64,Female,Self-Employed,44072,24244,19828,Education,Yes,34.31,No,No,Family,Average,High
+F0211,40,Female,Working Professional,63556,50257,13299,Education,Yes,20.92,Yes,Yes,NGO,Good,Low
+F0212,29,Female,Working Professional,61943,56385,5558,Vehicle,Yes,8.97,No,No,NGO,Average,High
+F0213,25,Male,Retired,29523,14270,15253,None,No,66.03,Yes,No,Self,Good,Low
+F0214,46,Female,Retired,32769,12757,20012,None,No,61.07,Yes,Yes,NGO,Poor,Moderate
+F0215,23,Male,Fresher,14616,13675,941,Vehicle,Yes,6.44,Yes,No,Self,Average,Moderate
+F0216,56,Male,Retired,20519,8645,11874,None,No,66.43,No,No,Government,Average,Moderate
+F0217,47,Male,Working Professional,67218,70951,-3733,Vehicle,Yes,0.0,Yes,No,None,Poor,High
+F0218,43,Male,Self-Employed,49999,15902,34097,Personal,Yes,32.6,No,No,None,Poor,High
+F0219,65,Female,Self-Employed,34028,2132,31896,Personal,Yes,40.8,No,No,Family,Average,High
+F0220,64,Female,Unemployed,2942,1067,1875,None,No,7.13,No,No,Government,Poor,High
+F0221,19,Female,Student,2439,3190,-751,None,No,0.0,No,No,Self,Good,Moderate
+F0222,66,Female,Retired,33466,8958,24508,None,No,59.47,No,No,Family,Poor,High
+F0223,52,Female,Retired,25476,20261,5215,None,No,20.47,Yes,No,Family,Good,Low
+F0224,36,Female,Retired,26198,19957,6241,None,No,58.25,No,No,Government,Average,Moderate
+F0225,47,Female,Self-Employed,31033,4317,26716,Personal,Yes,38.78,No,No,Government,Good,Moderate
+F0226,46,Female,Self-Employed,48285,31753,16532,Home,Yes,34.24,No,No,None,Average,High
+F0227,31,Male,Self-Employed,45685,35689,9996,Education,Yes,21.88,No,No,Government,Average,High
+F0228,58,Female,Unemployed,3052,5693,-2641,None,No,0.0,No,No,NGO,Poor,High
+F0229,61,Male,Working Professional,68624,39673,28951,Education,Yes,40.97,No,No,None,Good,Moderate
+F0230,21,Female,Student,2069,1104,965,Education,Yes,24.28,No,No,Family,Good,Moderate
+F0231,42,Male,Unemployed,3651,3830,-179,None,No,0.0,No,No,None,Poor,High
+F0232,65,Male,Self-Employed,37508,35393,2115,Personal,Yes,36.45,No,No,None,Poor,High
+F0233,56,Female,Working Professional,64040,57163,6877,Home,Yes,10.74,Yes,No,None,Good,Low
+F0234,48,Female,Self-Employed,48405,37750,10655,Home,Yes,44.82,No,No,Government,Poor,High
+F0235,29,Female,Working Professional,66347,40888,25459,None,No,38.37,Yes,Yes,NGO,Poor,Moderate
+F0236,37,Male,Self-Employed,46176,36475,9701,Personal,Yes,21.01,No,No,NGO,Good,Moderate
+F0237,27,Male,Self-Employed,32537,12120,20417,Vehicle,Yes,40.58,No,No,NGO,Good,Moderate
+F0238,59,Female,Self-Employed,41686,3308,38378,None,No,44.17,No,No,None,Good,Low
+F0239,50,Female,Self-Employed,49959,51014,-1055,Education,Yes,0.0,No,No,Family,Average,High
+F0240,48,Male,Unemployed,2372,2599,-227,None,No,0.0,No,No,Self,Poor,High
+F0241,32,Female,Retired,35938,14967,20971,None,No,58.43,No,No,Self,Poor,High
+F0242,47,Male,Working Professional,60391,15843,44548,Personal,Yes,32.88,Yes,Yes,None,Poor,Moderate
+F0243,72,Female,Retired,33501,2341,31160,None,No,55.44,Yes,Yes,Family,Average,Low
+F0244,23,Female,Fresher,11214,9100,2114,Home,Yes,18.85,No,No,Government,Average,High
+F0245,25,Female,Retired,30970,31293,-323,None,No,0.0,No,No,Government,Good,Moderate
+F0246,27,Male,Working Professional,66257,63466,2791,Personal,Yes,30.33,Yes,No,None,Poor,High
+F0247,27,Male,Working Professional,62502,39695,22807,Personal,Yes,33.77,No,Yes,None,Average,High
+F0248,24,Male,Fresher,11493,14316,-2823,None,No,0.0,Yes,No,Government,Poor,High
+F0249,63,Male,Working Professional,64115,55707,8408,None,No,44.34,Yes,Yes,Self,Good,Low
+F0250,62,Female,Self-Employed,47918,23567,24351,Home,Yes,35.55,No,No,Self,Poor,High
+F0251,44,Male,Working Professional,65481,53009,12472,Vehicle,Yes,19.05,Yes,No,None,Average,Moderate
+F0252,72,Female,Retired,34621,7401,27220,None,No,61.99,Yes,Yes,NGO,Average,Low
+F0253,33,Male,Unemployed,3436,6208,-2772,None,No,0.0,No,No,None,Average,High
+F0254,23,Male,Fresher,13845,1603,12242,Education,Yes,22.11,Yes,No,Self,Good,Low
+F0255,71,Male,Self-Employed,40857,25071,15786,Personal,Yes,49.77,No,No,None,Poor,High
+F0256,26,Female,Working Professional,65557,30215,35342,Vehicle,Yes,31.27,No,No,Family,Average,High
+F0257,18,Female,Student,2300,2849,-549,Education,Yes,0.0,No,No,Self,Good,High
+F0258,70,Male,Self-Employed,49507,49162,345,Education,Yes,38.47,No,No,NGO,Poor,High
+F0259,52,Male,Unemployed,2652,3516,-864,None,No,0.0,No,No,NGO,Good,Moderate
+F0260,62,Female,Self-Employed,42240,9771,32469,Home,Yes,38.04,No,No,Family,Average,High
+F0261,43,Male,Self-Employed,46736,5019,41717,Home,Yes,49.47,No,No,Self,Average,High
+F0262,26,Female,Unemployed,3411,3045,366,None,No,10.73,No,No,NGO,Average,Moderate
+F0263,58,Female,Working Professional,66899,29153,37746,Vehicle,Yes,34.99,Yes,Yes,Self,Poor,Moderate
+F0264,45,Female,Working Professional,68980,35399,33581,Vehicle,Yes,52.01,Yes,No,Government,Good,Low
+F0265,38,Female,Retired,23936,17186,6750,None,No,28.2,No,Yes,Government,Poor,High
+F0266,74,Female,Self-Employed,49335,27154,22181,Education,Yes,42.73,No,No,Government,Good,Moderate
+F0267,75,Female,Retired,25311,27202,-1891,None,No,0.0,Yes,Yes,None,Poor,High
+F0268,71,Male,Unemployed,3246,1263,1983,None,No,8.14,No,No,None,Average,Moderate
+F0269,44,Male,Unemployed,3967,3901,66,None,No,1.66,No,No,NGO,Good,Moderate
+F0270,21,Female,Student,1068,1405,-337,Education,Yes,0.0,No,No,Self,Average,High
+F0271,32,Male,Self-Employed,41808,23170,18638,Vehicle,Yes,34.25,No,No,NGO,Poor,High
+F0272,34,Female,Retired,23923,27078,-3155,None,No,0.0,Yes,No,Government,Average,Moderate
+F0273,53,Male,Working Professional,64101,30966,33135,None,No,48.6,Yes,No,Government,Poor,Moderate
+F0274,74,Female,Unemployed,2546,3666,-1120,None,No,0.0,No,No,Government,Good,Moderate
+F0275,69,Male,Self-Employed,43321,40777,2544,Education,Yes,44.8,No,No,Self,Average,High
+F0276,35,Female,Self-Employed,42474,14535,27939,Personal,Yes,41.66,No,No,NGO,Good,Moderate
+F0277,70,Male,Self-Employed,38191,23481,14710,Education,Yes,38.52,No,No,Government,Good,Moderate
+F0278,62,Female,Working Professional,67605,53582,14023,Personal,Yes,20.74,Yes,No,Family,Average,Moderate
+F0279,56,Male,Unemployed,2698,1155,1543,None,No,14.49,No,No,NGO,Poor,High
+F0280,51,Female,Working Professional,62149,44936,17213,None,No,32.65,No,No,Family,Poor,High
+F0281,37,Female,Retired,34333,7187,27146,None,No,57.16,Yes,Yes,NGO,Average,Low
+F0282,73,Male,Working Professional,67046,51693,15353,Vehicle,Yes,22.9,No,No,NGO,Average,High
+F0283,72,Female,Retired,36660,25459,11201,None,No,57.89,Yes,No,NGO,Average,Low
+F0284,42,Male,Self-Employed,47093,28429,18664,Education,Yes,39.63,No,No,Self,Poor,High
+F0285,40,Male,Unemployed,3579,2325,1254,None,No,35.04,No,No,Government,Average,Moderate
+F0286,50,Female,Self-Employed,40706,39063,1643,Personal,Yes,4.04,No,No,Government,Average,High
+F0287,32,Female,Retired,31097,33817,-2720,None,No,0.0,No,Yes,None,Poor,High
+F0288,30,Male,Retired,23185,8525,14660,None,No,72.3,Yes,No,NGO,Good,Low
+F0289,67,Male,Working Professional,69200,55095,14105,Vehicle,Yes,20.38,No,Yes,Family,Good,Moderate
+F0290,60,Female,Working Professional,60759,61340,-581,None,No,0.0,Yes,Yes,Family,Average,Moderate
+F0291,37,Female,Unemployed,2711,2538,173,None,No,13.0,No,No,Self,Poor,High
+F0292,64,Female,Working Professional,67608,22006,45602,None,No,46.58,No,No,Government,Poor,High
+F0293,58,Female,Unemployed,3787,2265,1522,None,No,40.19,No,No,None,Poor,High
+F0294,32,Female,Unemployed,3706,2120,1586,None,No,10.33,No,No,NGO,Good,Low
+F0295,53,Female,Self-Employed,48210,30593,17617,Home,Yes,41.15,No,No,Government,Average,High
+F0296,37,Male,Working Professional,61224,25105,36119,None,No,39.38,No,Yes,NGO,Good,Low
+F0297,20,Male,Student,1724,2567,-843,None,No,0.0,No,No,Government,Good,Moderate
+F0298,73,Female,Working Professional,64315,48063,16252,Vehicle,Yes,30.13,Yes,No,None,Poor,Moderate
+F0299,68,Female,Working Professional,69943,25408,44535,Home,Yes,30.03,No,No,Self,Average,High
+F0300,26,Female,Self-Employed,44330,16440,27890,Personal,Yes,39.03,No,No,NGO,Poor,High
+F0301,45,Male,Retired,23942,11265,12677,None,No,58.01,Yes,Yes,Family,Good,Low
+F0302,65,Male,Unemployed,2405,4083,-1678,None,No,0.0,No,No,NGO,Average,High
+F0303,64,Male,Self-Employed,47851,19225,28626,Vehicle,Yes,34.77,No,No,Self,Average,High
+F0304,73,Male,Retired,30659,18723,11936,None,No,56.53,No,No,None,Poor,High
+F0305,53,Female,Unemployed,2552,3301,-749,None,No,0.0,No,No,Self,Good,Moderate
+F0306,72,Female,Working Professional,62234,40217,22017,None,No,37.13,No,No,Family,Poor,High
+F0307,75,Male,Working Professional,68329,30590,37739,None,No,41.17,No,Yes,Family,Good,Low
+F0308,40,Male,Retired,26354,5493,20861,None,No,71.25,No,Yes,NGO,Average,Moderate
+F0309,53,Female,Working Professional,62476,51603,10873,Personal,Yes,17.4,Yes,No,NGO,Poor,Moderate
+F0310,72,Male,Working Professional,63914,39761,24153,Home,Yes,53.92,No,No,NGO,Good,Moderate
+F0311,17,Male,Student,1793,2140,-347,Education,Yes,0.0,No,No,Family,Average,High
+F0312,28,Male,Retired,21824,13247,8577,None,No,69.49,Yes,No,Family,Average,Low
+F0313,45,Male,Self-Employed,44001,5860,38141,Personal,Yes,38.85,No,No,Self,Good,Moderate
+F0314,35,Female,Working Professional,65859,23970,41889,Education,Yes,39.88,No,No,Self,Good,Moderate
+F0315,20,Male,Student,2806,4648,-1842,None,No,0.0,No,No,None,Poor,High
+F0316,39,Female,Self-Employed,38928,4056,34872,None,No,31.84,No,No,None,Average,Moderate
+F0317,35,Male,Working Professional,64752,26078,38674,Education,Yes,41.59,No,No,Family,Poor,High
+F0318,39,Female,Retired,33691,19430,14261,None,No,57.29,Yes,No,Self,Poor,Moderate
+F0319,40,Female,Self-Employed,43516,4885,38631,Vehicle,Yes,44.75,No,No,Government,Good,Moderate
+F0320,54,Male,Self-Employed,42061,21127,20934,Education,Yes,35.26,No,No,None,Poor,High
+F0321,19,Female,Student,1861,1515,346,Education,Yes,18.59,No,No,None,Good,Moderate
+F0322,34,Male,Unemployed,3341,4213,-872,None,No,0.0,No,No,NGO,Good,Moderate
+F0323,32,Male,Self-Employed,39591,35773,3818,Education,Yes,40.25,No,No,Family,Poor,High
+F0324,73,Male,Unemployed,3759,1033,2726,None,No,6.92,No,No,Government,Good,Low
+F0325,55,Male,Retired,20395,16055,4340,None,No,63.86,Yes,No,Family,Good,Low
+F0326,18,Male,Student,2143,2400,-257,None,No,0.0,No,No,Family,Good,Moderate
+F0327,31,Male,Self-Employed,43115,32618,10497,Vehicle,Yes,43.09,No,No,None,Poor,High
+F0328,35,Male,Unemployed,3600,5272,-1672,None,No,0.0,No,No,Self,Average,High
+F0329,23,Female,Fresher,13022,11730,1292,Education,Yes,23.63,No,No,Family,Good,Moderate
+F0330,59,Male,Self-Employed,35320,27502,7818,Home,Yes,22.13,No,No,Self,Poor,High
+F0331,60,Male,Working Professional,65392,54072,11320,Home,Yes,17.31,Yes,No,Self,Good,Low
+F0332,29,Male,Retired,32510,3074,29436,None,No,58.69,Yes,No,Government,Good,Low
+F0333,21,Male,Student,2291,1053,1238,None,No,54.04,No,No,None,Good,Low
+F0334,49,Male,Self-Employed,35859,1895,33964,None,No,48.7,No,No,None,Average,Moderate
+F0335,58,Male,Unemployed,2218,2077,141,None,No,6.36,No,No,Family,Poor,High
+F0336,41,Male,Unemployed,2439,2894,-455,None,No,0.0,No,No,None,Average,High
+F0337,19,Male,Student,2666,1483,1183,Education,Yes,18.33,No,No,Government,Good,Moderate
+F0338,68,Female,Retired,23842,20068,3774,None,No,15.83,No,No,NGO,Good,Low
+F0339,57,Male,Retired,24954,6405,18549,None,No,58.9,Yes,No,None,Good,Low
+F0340,56,Male,Self-Employed,33303,21047,12256,Vehicle,Yes,36.8,No,No,Government,Average,High
+F0341,35,Female,Retired,37458,38004,-546,None,No,0.0,No,No,Self,Average,High
+F0342,68,Female,Working Professional,65977,30480,35497,Personal,Yes,49.13,No,No,Government,Average,High
+F0343,75,Female,Working Professional,65495,20163,45332,Personal,Yes,43.34,No,Yes,Government,Poor,High
+F0344,58,Female,Working Professional,60584,53793,6791,Education,Yes,11.21,No,No,Family,Poor,High
+F0345,29,Male,Working Professional,63822,20931,42891,Home,Yes,34.28,Yes,Yes,Family,Poor,Moderate
+F0346,48,Male,Working Professional,62125,23497,38628,Personal,Yes,32.18,Yes,Yes,NGO,Poor,Moderate
+F0347,59,Male,Unemployed,2806,5291,-2485,None,No,0.0,No,No,None,Poor,High
+F0348,72,Male,Self-Employed,32927,36735,-3808,Home,Yes,0.0,No,No,Family,Poor,High
+F0349,51,Female,Working Professional,62753,33899,28854,Personal,Yes,41.31,No,Yes,None,Good,Moderate
+F0350,63,Male,Working Professional,60138,57260,2878,Personal,Yes,4.79,Yes,No,Government,Poor,High
+F0351,36,Female,Unemployed,3235,5960,-2725,None,No,0.0,No,No,Self,Poor,High
+F0352,41,Male,Self-Employed,30977,35144,-4167,None,No,0.0,No,No,Family,Average,High
+F0353,54,Female,Retired,32259,12472,19787,None,No,61.2,Yes,Yes,NGO,Average,Low
+F0354,16,Female,Student,1028,1261,-233,Education,Yes,0.0,No,No,None,Good,High
+F0355,19,Female,Student,1173,1912,-739,None,No,0.0,No,No,Government,Poor,High
+F0356,40,Male,Self-Employed,37750,39666,-1916,None,No,0.0,No,No,None,Average,High
+F0357,73,Male,Unemployed,2177,3919,-1742,None,No,0.0,No,No,NGO,Average,High
+F0358,24,Female,Fresher,14859,18634,-3775,None,No,0.0,Yes,No,None,Poor,High
+F0359,66,Female,Unemployed,2199,3526,-1327,None,No,0.0,No,No,Government,Good,Moderate
+F0360,50,Female,Self-Employed,39810,20177,19633,Home,Yes,37.04,No,No,NGO,Poor,High
+F0361,41,Male,Retired,25699,23139,2560,None,No,9.96,No,Yes,NGO,Average,High
+F0362,63,Female,Retired,26041,13399,12642,None,No,70.51,No,No,Self,Good,Low
+F0363,56,Female,Self-Employed,30410,16314,14096,Vehicle,Yes,46.35,No,No,Self,Good,Moderate
+F0364,64,Female,Working Professional,66487,42667,23820,None,No,35.83,Yes,Yes,Government,Average,Low
+F0365,28,Female,Unemployed,3561,4061,-500,None,No,0.0,No,No,Self,Average,High
+F0366,38,Female,Retired,32115,24070,8045,None,No,74.36,No,Yes,Government,Average,Moderate
+F0367,22,Female,Student,2172,3093,-921,Education,Yes,0.0,No,No,Family,Average,High
+F0368,33,Female,Working Professional,68997,60719,8278,Education,Yes,37.68,No,Yes,None,Poor,High
+F0369,53,Male,Self-Employed,41490,25831,15659,Personal,Yes,43.73,No,No,Government,Average,High
+F0370,73,Male,Retired,21280,10383,10897,None,No,70.84,Yes,Yes,NGO,Average,Low
+F0371,72,Male,Self-Employed,33786,6070,27716,Vehicle,Yes,47.82,No,No,Family,Poor,High
+F0372,60,Female,Retired,30062,14880,15182,None,No,69.24,No,Yes,None,Poor,High
+F0373,65,Male,Unemployed,2232,1415,817,None,No,36.6,No,No,Self,Poor,High
+F0374,72,Male,Retired,36287,19225,17062,None,No,61.01,Yes,Yes,NGO,Good,Low
+F0375,70,Female,Unemployed,2213,2837,-624,None,No,0.0,No,No,None,Good,Moderate
+F0376,64,Male,Retired,26345,17458,8887,None,No,71.17,Yes,No,Government,Poor,Moderate
+F0377,38,Male,Working Professional,63890,52844,11046,Vehicle,Yes,17.29,Yes,Yes,Family,Poor,Moderate
+F0378,70,Male,Working Professional,62023,36325,25698,Home,Yes,32.94,No,No,Family,Good,Moderate
+F0379,26,Male,Retired,26475,3377,23098,None,No,58.21,No,Yes,None,Average,Moderate
+F0380,75,Female,Self-Employed,47862,13009,34853,Education,Yes,37.65,No,No,None,Good,Moderate
+F0381,19,Male,Student,1319,1240,79,None,No,5.99,No,No,Family,Average,High
+F0382,56,Male,Self-Employed,48773,41140,7633,Vehicle,Yes,36.52,No,No,Self,Average,High
+F0383,59,Male,Retired,32082,30843,1239,None,No,3.86,Yes,No,Family,Average,Moderate
+F0384,66,Male,Working Professional,63554,21400,42154,Vehicle,Yes,46.93,No,Yes,Self,Average,High
+F0385,26,Female,Self-Employed,44061,17562,26499,Vehicle,Yes,47.37,No,No,Self,Good,Moderate
+F0386,61,Female,Unemployed,2200,1816,384,None,No,17.45,No,No,NGO,Good,Low
+F0387,33,Female,Retired,30585,16432,14153,None,No,72.95,Yes,No,Family,Poor,Moderate
+F0388,25,Female,Self-Employed,44089,47758,-3669,None,No,0.0,No,No,Self,Good,Moderate
+F0389,32,Male,Retired,33909,15177,18732,None,No,63.68,No,Yes,Government,Poor,High
+F0390,58,Male,Working Professional,61686,49764,11922,Vehicle,Yes,19.33,No,Yes,None,Poor,High
+F0391,65,Female,Retired,23428,9349,14079,None,No,74.77,Yes,No,NGO,Good,Low
+F0392,20,Male,Student,2983,2632,351,None,No,11.77,No,No,NGO,Average,Moderate
+F0393,27,Male,Retired,32110,23110,9000,None,No,72.85,Yes,Yes,None,Poor,Moderate
+F0394,53,Female,Self-Employed,39789,26775,13014,Home,Yes,32.71,No,No,None,Average,High
+F0395,58,Male,Unemployed,2317,4419,-2102,None,No,0.0,No,No,NGO,Good,Moderate
+F0396,22,Female,Student,2604,5066,-2462,Education,Yes,0.0,No,No,Government,Poor,High
+F0397,25,Male,Unemployed,3560,1289,2271,None,No,10.65,No,No,None,Good,Low
+F0398,63,Male,Retired,24940,3351,21589,None,No,58.82,No,No,None,Good,Low
+F0399,55,Female,Working Professional,68420,44060,24360,Education,Yes,35.6,Yes,Yes,None,Average,Moderate
+F0400,47,Male,Unemployed,2736,2519,217,None,No,7.93,No,No,Family,Average,High
+F0401,32,Male,Unemployed,3773,5781,-2008,None,No,0.0,No,No,Government,Good,Moderate
+F0402,57,Male,Working Professional,62449,65300,-2851,Home,Yes,0.0,Yes,Yes,NGO,Poor,High
+F0403,19,Female,Student,1094,2185,-1091,None,No,0.0,No,No,NGO,Average,High
+F0404,66,Male,Self-Employed,44510,40763,3747,Vehicle,Yes,31.41,No,No,Self,Good,Moderate
+F0405,40,Female,Working Professional,65593,14656,50937,Personal,Yes,48.05,No,Yes,NGO,Good,Moderate
+F0406,33,Female,Retired,36769,34032,2737,None,No,7.44,Yes,No,Family,Average,Moderate
+F0407,18,Male,Student,1952,3210,-1258,None,No,0.0,No,No,Self,Good,Moderate
+F0408,67,Male,Retired,21401,3417,17984,None,No,59.09,No,No,Self,Average,Moderate
+F0409,56,Male,Self-Employed,46530,44867,1663,Personal,Yes,3.57,No,No,None,Poor,High
+F0410,49,Female,Self-Employed,43445,5888,37557,Vehicle,Yes,41.59,No,No,Family,Good,Moderate
+F0411,74,Female,Self-Employed,32293,27691,4602,Education,Yes,14.25,No,No,Family,Poor,High
+F0412,72,Female,Retired,20003,13766,6237,None,No,65.28,Yes,No,Self,Poor,Moderate
+F0413,74,Male,Unemployed,3104,6192,-3088,None,No,0.0,No,No,NGO,Good,Moderate
+F0414,22,Female,Student,1535,1215,320,Education,Yes,29.74,No,No,None,Good,Moderate
+F0415,48,Female,Retired,31096,13211,17885,None,No,55.25,Yes,Yes,Government,Average,Low
+F0416,66,Male,Working Professional,67227,71386,-4159,None,No,0.0,Yes,Yes,NGO,Good,Low
+F0417,25,Female,Self-Employed,33772,26955,6817,None,No,46.54,No,No,Self,Average,Moderate
+F0418,56,Female,Self-Employed,33298,34609,-1311,Personal,Yes,0.0,No,No,Government,Poor,High
+F0419,73,Male,Retired,35286,27673,7613,None,No,65.11,No,No,Government,Average,Moderate
+F0420,33,Female,Self-Employed,34930,18522,16408,Education,Yes,46.97,No,No,NGO,Good,Moderate
+F0421,41,Male,Working Professional,68325,4683,63642,Home,Yes,51.42,No,Yes,Government,Good,Moderate
+F0422,66,Female,Self-Employed,37039,9924,27115,Education,Yes,43.27,No,No,Self,Poor,High
+F0423,63,Male,Self-Employed,30415,1433,28982,Home,Yes,36.08,No,No,NGO,Good,Moderate
+F0424,72,Male,Retired,25935,29739,-3804,None,No,0.0,Yes,Yes,Government,Good,Low
+F0425,60,Female,Retired,36954,20218,16736,None,No,66.63,No,No,None,Good,Low
+F0426,40,Male,Self-Employed,42129,31728,10401,Vehicle,Yes,24.69,No,No,None,Poor,High
+F0427,71,Male,Self-Employed,36183,13765,22418,Vehicle,Yes,43.01,No,No,None,Good,Moderate
+F0428,57,Male,Unemployed,3223,3802,-579,None,No,0.0,No,No,Family,Good,Moderate
+F0429,74,Female,Self-Employed,35797,8983,26814,Home,Yes,36.72,No,No,Self,Poor,High
+F0430,59,Female,Retired,33576,35833,-2257,None,No,0.0,No,Yes,Self,Good,Moderate
+F0431,74,Female,Unemployed,3438,5064,-1626,None,No,0.0,No,No,None,Good,Moderate
+F0432,46,Male,Retired,27880,23617,4263,None,No,61.98,Yes,Yes,NGO,Average,Low
+F0433,24,Male,Fresher,10268,5260,5008,Education,Yes,48.77,No,No,None,Good,Moderate
+F0434,56,Female,Working Professional,66734,62360,4374,Vehicle,Yes,6.55,Yes,No,NGO,Average,Moderate
+F0435,40,Male,Retired,36990,20756,16234,None,No,62.08,Yes,No,Family,Good,Low
+F0436,41,Female,Self-Employed,47960,42235,5725,Education,Yes,11.94,No,No,Family,Average,High
+F0437,69,Male,Self-Employed,41361,19813,21548,Personal,Yes,45.43,No,No,NGO,Good,Moderate
+F0438,28,Male,Self-Employed,41313,27538,13775,Personal,Yes,33.34,No,No,None,Poor,High
+F0439,16,Male,Student,2061,2232,-171,Education,Yes,0.0,No,No,Family,Poor,High
+F0440,35,Male,Retired,35593,23522,12071,None,No,59.52,No,No,Government,Average,Moderate
+F0441,69,Male,Unemployed,2545,2940,-395,None,No,0.0,No,No,Government,Poor,High
+F0442,26,Male,Retired,29805,6935,22870,None,No,57.54,Yes,Yes,NGO,Good,Low
+F0443,42,Male,Retired,33678,24988,8690,None,No,25.8,Yes,No,Self,Poor,Moderate
+F0444,57,Female,Self-Employed,37586,10873,26713,Vehicle,Yes,48.77,No,No,Self,Poor,High
+F0445,62,Male,Unemployed,2081,2750,-669,None,No,0.0,No,No,NGO,Good,Moderate
+F0446,32,Female,Retired,27028,13403,13625,None,No,56.22,Yes,Yes,Government,Average,Low
+F0447,24,Female,Fresher,13686,10315,3371,Education,Yes,24.63,Yes,No,Self,Good,Low
+F0448,62,Female,Self-Employed,36139,10901,25238,Home,Yes,36.81,No,No,None,Poor,High
+F0449,44,Male,Retired,32210,13201,19009,None,No,65.26,Yes,Yes,Family,Poor,Moderate
+F0450,30,Female,Working Professional,60097,7911,52186,Personal,Yes,46.68,Yes,Yes,None,Poor,Moderate
+F0451,62,Male,Working Professional,63304,59081,4223,Personal,Yes,6.67,No,Yes,Self,Average,High
+F0452,21,Female,Student,2542,2889,-347,None,No,0.0,No,No,None,Average,High
+F0453,19,Male,Student,2713,3355,-642,Education,Yes,0.0,No,No,Self,Poor,High
+F0454,38,Male,Self-Employed,30470,3764,26706,Education,Yes,45.18,No,No,Family,Average,High
+F0455,19,Male,Student,1414,1123,291,None,No,20.58,No,No,None,Good,Low
+F0456,66,Female,Unemployed,2055,3659,-1604,None,No,0.0,No,No,Self,Good,Moderate
+F0457,73,Female,Self-Employed,44411,26282,18129,None,No,47.6,No,No,Government,Good,Low
+F0458,46,Female,Retired,29450,21647,7803,None,No,26.5,Yes,Yes,Self,Good,Low
+F0459,28,Male,Working Professional,62299,57223,5076,Personal,Yes,8.15,No,No,Self,Average,High
+F0460,45,Female,Unemployed,2305,1482,823,None,No,11.51,No,No,Government,Good,Low
+F0461,31,Male,Working Professional,61703,24006,37697,Vehicle,Yes,47.65,Yes,No,NGO,Good,Low
+F0462,58,Male,Self-Employed,45551,49090,-3539,Vehicle,Yes,0.0,No,No,NGO,Poor,High
+F0463,69,Female,Self-Employed,37666,2785,34881,None,No,33.88,No,No,NGO,Average,Moderate
+F0464,43,Male,Working Professional,69571,3020,66551,None,No,43.7,No,No,Government,Good,Low
+F0465,43,Male,Retired,22213,3284,18929,None,No,68.91,Yes,No,NGO,Average,Low
+F0466,38,Female,Self-Employed,40825,38525,2300,None,No,5.63,No,No,None,Poor,High
+F0467,35,Male,Unemployed,3849,2861,988,None,No,11.16,No,No,NGO,Poor,High
+F0468,62,Male,Unemployed,2853,5566,-2713,None,No,0.0,No,No,Family,Poor,High
+F0469,62,Female,Retired,25236,26440,-1204,None,No,0.0,No,Yes,Family,Average,High
+F0470,16,Female,Student,2410,3918,-1508,Education,Yes,0.0,No,No,None,Average,High
+F0471,29,Male,Working Professional,64767,51385,13382,Home,Yes,37.78,No,Yes,NGO,Good,Moderate
+F0472,20,Male,Student,1349,1132,217,Education,Yes,16.09,No,No,Self,Poor,High
+F0473,54,Female,Working Professional,69051,29555,39496,Home,Yes,31.71,Yes,Yes,Government,Good,Low
+F0474,66,Female,Retired,22916,13783,9133,None,No,55.08,Yes,Yes,Government,Poor,Moderate
+F0475,37,Female,Working Professional,60683,11995,48688,Education,Yes,39.93,Yes,Yes,Government,Poor,Moderate
+F0476,44,Female,Self-Employed,36057,40915,-4858,Home,Yes,0.0,No,No,Government,Good,High
+F0477,58,Female,Self-Employed,34123,14935,19188,None,No,34.38,No,No,None,Average,Moderate
+F0478,62,Male,Unemployed,2260,1864,396,None,No,17.52,No,No,Family,Poor,High
+F0479,39,Male,Self-Employed,36914,17283,19631,None,No,40.65,No,No,Family,Poor,High
+F0480,36,Female,Unemployed,2065,3338,-1273,None,No,0.0,No,No,Family,Good,Moderate
+F0481,63,Male,Unemployed,2060,2540,-480,None,No,0.0,No,No,Self,Good,Moderate
+F0482,53,Female,Retired,28743,31654,-2911,None,No,0.0,Yes,No,NGO,Poor,High
+F0483,25,Male,Self-Employed,32279,10798,21481,Vehicle,Yes,41.69,No,No,None,Poor,High
+F0484,22,Female,Student,1546,2656,-1110,Education,Yes,0.0,No,No,None,Poor,High
+F0485,43,Female,Retired,39086,28784,10302,None,No,68.36,No,Yes,Government,Average,Moderate
+F0486,30,Male,Working Professional,64942,18343,46599,Education,Yes,53.27,No,Yes,NGO,Average,High
+F0487,46,Female,Working Professional,67394,32854,34540,Personal,Yes,51.25,No,Yes,Self,Poor,High
+F0488,24,Female,Fresher,13581,3566,10015,Home,Yes,21.64,No,No,Government,Poor,High
+F0489,56,Female,Retired,37641,10395,27246,None,No,59.5,Yes,Yes,Government,Poor,Moderate
+F0490,54,Female,Self-Employed,30756,22403,8353,Personal,Yes,27.16,No,No,None,Good,Moderate
+F0491,46,Male,Self-Employed,41468,22324,19144,Home,Yes,45.98,No,No,Government,Good,Moderate
+F0492,61,Female,Retired,30177,7466,22711,None,No,69.2,No,Yes,None,Poor,High
+F0493,71,Female,Unemployed,3451,2979,472,None,No,13.68,No,No,None,Average,Moderate
+F0494,40,Male,Retired,27306,1182,26124,None,No,73.64,No,Yes,NGO,Average,Moderate
+F0495,21,Female,Student,1651,2522,-871,None,No,0.0,No,No,Family,Poor,High
+F0496,53,Male,Working Professional,60966,29039,31927,Home,Yes,40.56,No,No,Government,Poor,High
+F0497,58,Male,Retired,34995,4088,30907,None,No,74.64,Yes,Yes,Self,Poor,Moderate
+F0498,25,Female,Unemployed,3129,1691,1438,None,No,45.96,No,No,Government,Good,Low
+F0499,51,Female,Unemployed,2577,4802,-2225,None,No,0.0,No,No,Self,Average,High
+F0500,71,Female,Unemployed,2320,1727,593,None,No,12.05,No,No,NGO,Poor,High
+F0501,45,Female,Self-Employed,48261,48454,-193,None,No,0.0,No,No,Self,Poor,High
+F0502,44,Male,Retired,39690,38080,1610,None,No,63.49,Yes,No,NGO,Good,Low
+F0503,71,Male,Working Professional,67518,63919,3599,None,No,5.33,No,No,None,Poor,High
+F0504,72,Female,Unemployed,3135,1292,1843,None,No,10.92,No,No,Government,Average,Moderate
+F0505,59,Male,Self-Employed,43603,47026,-3423,Education,Yes,0.0,No,No,NGO,Average,High
+F0506,72,Male,Unemployed,2646,3186,-540,None,No,0.0,No,No,NGO,Average,High
+F0507,27,Male,Working Professional,64987,14597,50390,Education,Yes,38.2,Yes,Yes,Government,Good,Low
+F0508,25,Female,Working Professional,66860,46198,20662,Vehicle,Yes,30.9,Yes,Yes,Self,Poor,Moderate
+F0509,67,Male,Working Professional,65294,43635,21659,Vehicle,Yes,30.21,No,Yes,Family,Good,Moderate
+F0510,36,Female,Self-Employed,35432,6869,28563,Education,Yes,34.23,No,No,Family,Good,Moderate
+F0511,38,Male,Working Professional,61236,35118,26118,Home,Yes,48.29,No,No,Self,Average,High
+F0512,40,Female,Unemployed,3498,5027,-1529,None,No,0.0,No,No,Self,Good,Moderate
+F0513,33,Male,Self-Employed,49703,52399,-2696,Home,Yes,0.0,No,No,None,Good,High
+F0514,36,Female,Unemployed,2460,3366,-906,None,No,0.0,No,No,Self,Poor,High
+F0515,65,Male,Retired,32041,25565,6476,None,No,74.25,Yes,No,None,Good,Low
+F0516,46,Male,Working Professional,62880,7123,55757,Home,Yes,37.18,Yes,No,NGO,Good,Low
+F0517,18,Male,Student,1864,2571,-707,None,No,0.0,No,No,NGO,Good,Moderate
+F0518,20,Male,Student,2022,2768,-746,Education,Yes,0.0,No,No,Government,Poor,High
+F0519,59,Female,Working Professional,64687,48738,15949,Education,Yes,35.31,Yes,No,None,Average,Moderate
+F0520,44,Male,Self-Employed,38926,40245,-1319,Home,Yes,0.0,No,No,NGO,Good,High
+F0521,26,Male,Retired,34294,7741,26553,None,No,73.85,Yes,Yes,NGO,Poor,Moderate
+F0522,63,Male,Retired,20851,22072,-1221,None,No,0.0,Yes,Yes,Government,Average,Moderate
+F0523,24,Male,Fresher,13334,4132,9202,Personal,Yes,22.14,Yes,No,NGO,Poor,Moderate
+F0524,67,Male,Self-Employed,42901,33355,9546,Vehicle,Yes,36.44,No,No,Government,Average,High
+F0525,41,Male,Unemployed,2334,3612,-1278,None,No,0.0,No,No,None,Poor,High
+F0526,56,Male,Working Professional,60251,38492,21759,Vehicle,Yes,35.3,Yes,Yes,NGO,Good,Low
+F0527,17,Female,Student,1124,1451,-327,None,No,0.0,No,No,None,Average,High
+F0528,75,Female,Self-Employed,45623,2972,42651,None,No,45.29,No,No,NGO,Poor,High
+F0529,27,Male,Retired,26608,1683,24925,None,No,63.17,Yes,Yes,None,Average,Low
+F0530,39,Female,Self-Employed,37964,21860,16104,None,No,42.42,No,No,Government,Poor,High
+F0531,71,Female,Self-Employed,38421,40875,-2454,None,No,0.0,No,No,Self,Average,High
+F0532,49,Male,Working Professional,69674,66064,3610,Home,Yes,50.76,Yes,No,NGO,Average,Moderate
+F0533,44,Male,Working Professional,67402,56381,11021,None,No,16.35,Yes,Yes,Self,Average,Low
+F0534,62,Male,Unemployed,2738,4580,-1842,None,No,0.0,No,No,Government,Average,High
+F0535,19,Male,Student,1413,1012,401,None,No,23.81,No,No,None,Poor,High
+F0536,22,Male,Student,2791,1868,923,None,No,23.29,No,No,NGO,Average,Moderate
+F0537,75,Male,Self-Employed,33157,26854,6303,Personal,Yes,19.01,No,No,None,Good,Moderate
+F0538,48,Male,Retired,31843,34488,-2645,None,No,0.0,Yes,Yes,Government,Poor,High
+F0539,58,Male,Working Professional,60790,46065,14725,Education,Yes,51.9,Yes,No,Government,Good,Low
+F0540,51,Male,Working Professional,61676,32305,29371,Home,Yes,47.62,Yes,No,NGO,Average,Moderate
+F0541,38,Female,Unemployed,3617,6770,-3153,None,No,0.0,No,No,Government,Poor,High
+F0542,51,Male,Self-Employed,34143,21903,12240,Personal,Yes,40.7,No,No,None,Good,Moderate
+F0543,17,Female,Student,1794,1750,44,None,No,2.45,No,No,Self,Good,Moderate
+F0544,21,Male,Student,2642,1063,1579,None,No,15.0,No,No,Family,Good,Low
+F0545,22,Male,Student,1319,1704,-385,None,No,0.0,No,No,None,Good,Moderate
+F0546,41,Female,Retired,30121,4941,25180,None,No,65.67,No,Yes,Family,Good,Low
+F0547,60,Female,Unemployed,2072,2425,-353,None,No,0.0,No,No,Self,Average,High
+F0548,51,Male,Self-Employed,32760,30540,2220,Education,Yes,43.96,No,No,Family,Good,Moderate
+F0549,48,Female,Working Professional,69015,67758,1257,Home,Yes,1.82,Yes,Yes,None,Poor,High
+F0550,34,Female,Working Professional,61993,47486,14507,Education,Yes,30.43,No,Yes,Family,Poor,High
+F0551,39,Male,Self-Employed,32361,16669,15692,Education,Yes,30.0,No,No,Family,Good,Moderate
+F0552,22,Female,Student,1095,2059,-964,Education,Yes,0.0,No,No,Government,Average,High
+F0553,69,Male,Working Professional,64645,8650,55995,None,No,42.89,No,Yes,Self,Poor,High
+F0554,70,Female,Retired,39592,8643,30949,None,No,62.95,No,No,Government,Poor,High
+F0555,60,Male,Self-Employed,37354,26914,10440,None,No,27.95,No,No,Family,Average,Moderate
+F0556,59,Male,Retired,36784,39579,-2795,None,No,0.0,No,Yes,Self,Good,Moderate
+F0557,18,Male,Student,2102,3345,-1243,None,No,0.0,No,No,Government,Poor,High
+F0558,32,Male,Retired,32186,25158,7028,None,No,57.66,No,Yes,None,Average,Moderate
+F0559,62,Male,Retired,33068,26792,6276,None,No,18.98,Yes,Yes,Family,Poor,Moderate
+F0560,36,Female,Working Professional,61034,24734,36300,Home,Yes,43.59,No,No,Family,Poor,High
+F0561,50,Female,Unemployed,3259,1692,1567,None,No,9.58,No,No,NGO,Good,Low
+F0562,74,Male,Self-Employed,34448,38559,-4111,None,No,0.0,No,No,None,Average,High
+F0563,58,Female,Retired,29472,13190,16282,None,No,59.82,Yes,Yes,Family,Good,Low
+F0564,36,Male,Working Professional,69413,56149,13264,None,No,19.11,No,No,NGO,Poor,High
+F0565,54,Female,Working Professional,66875,52693,14182,None,No,40.38,Yes,No,NGO,Poor,Moderate
+F0566,41,Female,Working Professional,67914,65731,2183,Home,Yes,3.21,Yes,Yes,Family,Average,Moderate
+F0567,60,Female,Unemployed,3489,4192,-703,None,No,0.0,No,No,NGO,Average,High
+F0568,63,Female,Unemployed,3118,5098,-1980,None,No,0.0,No,No,None,Average,High
+F0569,58,Female,Working Professional,68528,35778,32750,Education,Yes,49.84,Yes,Yes,Government,Poor,Moderate
+F0570,25,Female,Self-Employed,36888,20101,16787,Home,Yes,45.51,No,No,NGO,Poor,High
+F0571,67,Male,Self-Employed,46153,48079,-1926,Personal,Yes,0.0,No,No,Government,Poor,High
+F0572,43,Male,Unemployed,2289,3496,-1207,None,No,0.0,No,No,NGO,Average,High
+F0573,59,Male,Self-Employed,41764,15071,26693,Home,Yes,38.4,No,No,None,Poor,High
+F0574,19,Male,Student,1261,1907,-646,Education,Yes,0.0,No,No,Family,Poor,High
+F0575,48,Male,Self-Employed,49049,38601,10448,Vehicle,Yes,34.61,No,No,Self,Good,Moderate
+F0576,69,Male,Retired,33278,15465,17813,None,No,57.97,No,No,Government,Average,Moderate
+F0577,73,Female,Unemployed,2337,3269,-932,None,No,0.0,No,No,Family,Poor,High
+F0578,38,Female,Working Professional,64611,33736,30875,Personal,Yes,44.08,No,No,Self,Average,High
+F0579,22,Female,Student,2344,4301,-1957,Education,Yes,0.0,No,No,Family,Average,High
+F0580,58,Male,Retired,33564,24863,8701,None,No,66.33,Yes,Yes,Self,Poor,Moderate
+F0581,53,Female,Unemployed,2777,5498,-2721,None,No,0.0,No,No,NGO,Average,High
+F0582,34,Male,Unemployed,2880,5267,-2387,None,No,0.0,No,No,Government,Average,High
+F0583,26,Male,Working Professional,68070,25322,42748,Home,Yes,48.95,Yes,No,Government,Average,Moderate
+F0584,39,Female,Unemployed,2755,2271,484,None,No,17.57,No,No,Self,Average,Moderate
+F0585,41,Male,Retired,37781,32898,4883,None,No,12.92,No,No,NGO,Poor,High
+F0586,31,Female,Retired,39752,44213,-4461,None,No,0.0,No,No,Government,Poor,High
+F0587,57,Male,Self-Employed,49515,54064,-4549,Personal,Yes,0.0,No,No,Self,Good,High
+F0588,32,Male,Unemployed,3158,2723,435,None,No,10.94,No,No,Self,Good,Low
+F0589,23,Male,Fresher,12659,4283,8376,None,No,21.98,Yes,No,NGO,Good,Low
+F0590,36,Male,Unemployed,2818,4943,-2125,None,No,0.0,No,No,Government,Average,High
+F0591,71,Female,Retired,20631,12941,7690,None,No,58.69,No,No,Government,Average,Moderate
+F0592,71,Female,Self-Employed,38307,7650,30657,None,No,45.39,No,No,Self,Good,Low
+F0593,46,Male,Working Professional,64537,60710,3827,Home,Yes,5.93,No,No,NGO,Good,Moderate
+F0594,18,Male,Student,2571,5048,-2477,None,No,0.0,No,No,Government,Average,High
+F0595,29,Male,Unemployed,3342,3000,342,None,No,10.9,No,No,Family,Poor,High
+F0596,38,Male,Unemployed,3777,1731,2046,None,No,7.92,No,No,Self,Good,Low
+F0597,59,Male,Working Professional,60828,50332,10496,Vehicle,Yes,45.12,No,Yes,Family,Poor,High
+F0598,67,Female,Self-Employed,34270,28982,5288,None,No,15.43,No,No,NGO,Poor,High
+F0599,37,Male,Retired,31740,25640,6100,None,No,71.56,Yes,No,Family,Good,Low
+F0600,33,Female,Self-Employed,45500,35978,9522,Education,Yes,20.93,No,No,Government,Good,Moderate
+F0601,26,Female,Unemployed,3694,1612,2082,None,No,7.03,No,No,NGO,Average,Moderate
+F0602,51,Male,Working Professional,61684,19483,42201,Home,Yes,35.13,Yes,Yes,NGO,Average,Moderate
+F0603,22,Male,Student,2913,1203,1710,None,No,25.7,No,No,NGO,Good,Low
+F0604,33,Male,Retired,35060,34060,1000,None,No,2.85,No,Yes,Family,Good,Moderate
+F0605,52,Male,Retired,39064,18165,20899,None,No,61.39,No,Yes,Government,Good,Low
+F0606,32,Male,Working Professional,66740,49913,16827,None,No,25.21,No,Yes,None,Average,Moderate
+F0607,30,Female,Retired,32371,24187,8184,None,No,63.03,Yes,No,NGO,Good,Low
+F0608,44,Female,Working Professional,61623,17765,43858,Vehicle,Yes,38.89,No,Yes,Self,Average,High
+F0609,43,Male,Working Professional,64766,50726,14040,Home,Yes,21.68,No,No,NGO,Good,Moderate
+F0610,30,Male,Working Professional,62118,8122,53996,None,No,31.95,Yes,Yes,NGO,Good,Low
+F0611,60,Male,Self-Employed,43438,27260,16178,Education,Yes,34.8,No,No,Government,Poor,High
+F0612,18,Female,Student,2756,3403,-647,Education,Yes,0.0,No,No,Family,Poor,High
+F0613,24,Female,Fresher,10748,9929,819,Education,Yes,24.03,No,No,Family,Average,High
+F0614,69,Female,Working Professional,63777,21311,42466,Education,Yes,54.95,Yes,No,Government,Poor,Moderate
+F0615,35,Male,Retired,37568,30022,7546,None,No,20.09,Yes,Yes,NGO,Average,Low
+F0616,50,Male,Unemployed,2824,3902,-1078,None,No,0.0,No,No,Self,Good,Moderate
+F0617,22,Male,Student,1805,2541,-736,Education,Yes,0.0,No,No,NGO,Average,High
+F0618,50,Female,Working Professional,62315,12584,49731,Home,Yes,53.73,Yes,Yes,Family,Poor,Moderate
+F0619,21,Male,Student,1708,1877,-169,None,No,0.0,No,No,Government,Poor,High
+F0620,63,Male,Self-Employed,46196,30744,15452,None,No,44.45,No,No,Government,Poor,High
+F0621,34,Male,Retired,28261,26693,1568,None,No,5.55,No,Yes,None,Average,High
+F0622,51,Female,Unemployed,2708,2922,-214,None,No,0.0,No,No,Self,Poor,High
+F0623,56,Female,Working Professional,64087,9876,54211,Vehicle,Yes,53.17,No,No,Self,Good,Moderate
+F0624,31,Female,Retired,31404,25198,6206,None,No,19.76,Yes,Yes,Self,Poor,Moderate
+F0625,18,Male,Student,2732,1869,863,Education,Yes,32.23,No,No,Self,Average,High
+F0626,22,Female,Student,2610,2404,206,None,No,7.89,No,No,Family,Average,High
+F0627,36,Female,Self-Employed,39271,34403,4868,Vehicle,Yes,40.69,No,No,Family,Poor,High
+F0628,49,Female,Self-Employed,44638,39155,5483,Home,Yes,12.28,No,No,NGO,Good,Moderate
+F0629,39,Female,Working Professional,60463,59144,1319,Education,Yes,2.18,No,No,Self,Poor,High
+F0630,32,Female,Unemployed,3249,5386,-2137,None,No,0.0,No,No,Self,Average,High
+F0631,35,Male,Retired,27081,7197,19884,None,No,68.14,No,No,Family,Good,Low
+F0632,37,Male,Working Professional,68294,31402,36892,Home,Yes,54.02,Yes,Yes,None,Poor,Moderate
+F0633,34,Female,Retired,25602,8479,17123,None,No,62.32,Yes,Yes,Family,Good,Low
+F0634,45,Female,Unemployed,2914,1077,1837,None,No,5.8,No,No,Self,Average,Moderate
+F0635,33,Female,Working Professional,61612,47847,13765,Home,Yes,52.65,Yes,Yes,None,Good,Low
+F0636,18,Male,Student,2768,2051,717,None,No,25.9,No,No,Government,Average,Moderate
+F0637,67,Female,Working Professional,63881,45019,18862,Home,Yes,33.1,No,No,Family,Average,High
+F0638,17,Female,Student,1540,2416,-876,Education,Yes,0.0,No,No,Self,Poor,High
+F0639,18,Male,Student,1323,2557,-1234,None,No,0.0,No,No,None,Average,High
+F0640,31,Female,Unemployed,3531,3209,322,None,No,7.9,No,No,NGO,Good,Moderate
+F0641,48,Female,Working Professional,61794,14521,47273,None,No,34.51,Yes,Yes,None,Average,Low
+F0642,42,Male,Self-Employed,46949,3896,43053,Vehicle,Yes,47.37,No,No,None,Poor,High
+F0643,52,Male,Self-Employed,41929,32673,9256,Education,Yes,22.08,No,No,Self,Poor,High
+F0644,17,Female,Student,1211,1549,-338,None,No,0.0,No,No,NGO,Poor,High
+F0645,27,Female,Working Professional,65555,47332,18223,Education,Yes,46.5,Yes,Yes,Self,Good,Low
+F0646,69,Female,Unemployed,2409,2530,-121,None,No,0.0,No,No,Government,Poor,High
+F0647,63,Female,Working Professional,61042,25653,35389,Personal,Yes,35.88,No,Yes,None,Poor,High
+F0648,56,Female,Self-Employed,43832,37930,5902,Personal,Yes,13.47,No,No,Family,Average,High
+F0649,52,Female,Unemployed,2753,3280,-527,None,No,0.0,No,No,Self,Average,High
+F0650,31,Male,Working Professional,62656,65359,-2703,Personal,Yes,0.0,Yes,No,Family,Poor,High
+F0651,39,Female,Working Professional,66221,35743,30478,Personal,Yes,36.49,No,Yes,None,Average,High
+F0652,25,Male,Unemployed,2661,3753,-1092,None,No,0.0,No,No,Family,Average,High
+F0653,48,Female,Self-Employed,44263,26158,18105,Education,Yes,47.24,No,No,Family,Good,Moderate
+F0654,44,Female,Unemployed,3060,1084,1976,None,No,8.78,No,No,Government,Good,Low
+F0655,64,Male,Self-Employed,38419,8552,29867,None,No,31.69,No,No,Self,Poor,High
+F0656,54,Female,Working Professional,67824,5780,62044,Education,Yes,34.95,Yes,No,Government,Average,Moderate
+F0657,59,Male,Self-Employed,37316,29212,8104,Vehicle,Yes,21.72,No,No,Self,Poor,High
+F0658,63,Female,Retired,32128,9350,22778,None,No,73.36,Yes,Yes,Government,Good,Low
+F0659,17,Female,Student,2312,4421,-2109,Education,Yes,0.0,No,No,Self,Poor,High
+F0660,36,Female,Working Professional,63545,29610,33935,Vehicle,Yes,48.83,Yes,No,NGO,Good,Low
+F0661,65,Female,Retired,20796,14516,6280,None,No,30.2,Yes,Yes,Government,Good,Low
+F0662,65,Female,Self-Employed,40881,12446,28435,Home,Yes,45.97,No,No,NGO,Good,Moderate
+F0663,42,Male,Self-Employed,31738,20501,11237,Vehicle,Yes,35.41,No,No,Self,Average,High
+F0664,58,Male,Retired,37532,39704,-2172,None,No,0.0,Yes,No,Self,Poor,High
+F0665,41,Female,Self-Employed,44486,39118,5368,Vehicle,Yes,32.48,No,No,None,Good,Moderate
+F0666,21,Female,Student,1362,1549,-187,Education,Yes,0.0,No,No,Self,Poor,High
+F0667,38,Female,Retired,20048,19458,590,None,No,66.47,Yes,No,NGO,Average,Moderate
+F0668,39,Female,Retired,27838,20479,7359,None,No,26.44,Yes,No,Family,Poor,Moderate
+F0669,41,Female,Self-Employed,30098,21927,8171,None,No,33.94,No,No,None,Poor,High
+F0670,22,Male,Student,1964,3447,-1483,Education,Yes,0.0,No,No,None,Good,High
+F0671,37,Male,Working Professional,62317,38055,24262,Vehicle,Yes,39.59,Yes,Yes,None,Poor,Moderate
+F0672,63,Female,Self-Employed,43151,34099,9052,Personal,Yes,20.98,No,No,Family,Average,High
+F0673,42,Male,Unemployed,3344,1206,2138,None,No,7.58,No,No,Family,Average,Moderate
+F0674,50,Male,Self-Employed,32360,19121,13239,Vehicle,Yes,35.23,No,No,Self,Average,High
+F0675,19,Female,Student,2504,4504,-2000,None,No,0.0,No,No,Self,Average,High
+F0676,52,Female,Retired,30223,35019,-4796,None,No,0.0,Yes,No,Government,Good,Low
+F0677,74,Female,Unemployed,2100,1027,1073,None,No,12.33,No,No,Self,Good,Low
+F0678,54,Male,Working Professional,64312,6424,57888,Education,Yes,40.32,No,Yes,NGO,Good,Moderate
+F0679,75,Male,Working Professional,60974,18846,42128,Education,Yes,50.18,No,Yes,None,Good,Moderate
+F0680,18,Female,Student,2181,1138,1043,Education,Yes,47.82,No,No,Government,Poor,High
+F0681,50,Male,Working Professional,68042,50886,17156,Personal,Yes,25.21,Yes,No,None,Good,Low
+F0682,17,Female,Student,2722,2740,-18,None,No,0.0,No,No,Government,Average,High
+F0683,22,Male,Student,1737,2835,-1098,None,No,0.0,No,No,Family,Average,High
+F0684,19,Male,Student,1845,2227,-382,Education,Yes,0.0,No,No,Self,Average,High
+F0685,52,Male,Self-Employed,43552,29419,14133,None,No,42.73,No,No,Self,Good,Low
+F0686,71,Male,Retired,29479,18921,10558,None,No,35.82,Yes,Yes,NGO,Good,Low
+F0687,35,Female,Unemployed,2831,3160,-329,None,No,0.0,No,No,Government,Good,Moderate
+F0688,24,Male,Fresher,13749,8132,5617,Education,Yes,23.09,Yes,No,Government,Good,Low
+F0689,58,Male,Self-Employed,36245,13971,22274,Personal,Yes,42.49,No,No,Self,Poor,High
+F0690,29,Female,Retired,32875,1663,31212,None,No,64.26,No,No,Family,Average,Moderate
+F0691,32,Male,Self-Employed,30682,15701,14981,None,No,48.83,No,No,None,Average,Moderate
+F0692,33,Female,Working Professional,68223,39162,29061,Home,Yes,42.6,Yes,Yes,NGO,Good,Low
+F0693,24,Female,Fresher,12904,2701,10203,Home,Yes,20.84,No,No,Self,Good,Moderate
+F0694,67,Female,Retired,29301,11764,17537,None,No,69.13,No,No,Government,Average,Moderate
+F0695,39,Female,Self-Employed,34382,14604,19778,None,No,57.52,No,No,NGO,Poor,High
+F0696,42,Male,Working Professional,61206,50408,10798,Home,Yes,17.64,No,Yes,Government,Average,High
+F0697,72,Female,Unemployed,2593,3470,-877,None,No,0.0,No,No,None,Poor,High
+F0698,39,Female,Working Professional,67561,62452,5109,Education,Yes,50.91,Yes,No,Self,Poor,High
+F0699,56,Male,Retired,21776,15516,6260,None,No,28.75,Yes,No,NGO,Poor,Moderate
+F0700,59,Female,Retired,27542,25394,2148,None,No,7.8,No,No,NGO,Average,High
+F0701,16,Male,Student,1538,1573,-35,Education,Yes,0.0,No,No,None,Average,High
+F0702,71,Female,Working Professional,62568,56735,5833,Home,Yes,42.41,Yes,Yes,NGO,Average,Moderate
+F0703,21,Female,Student,1315,2504,-1189,None,No,0.0,No,No,Family,Good,Moderate
+F0704,52,Male,Self-Employed,46989,31257,15732,Personal,Yes,37.05,No,No,Government,Average,High
+F0705,33,Female,Working Professional,66284,32268,34016,Education,Yes,48.27,No,No,NGO,Good,Moderate
+F0706,66,Male,Retired,32267,33953,-1686,None,No,0.0,No,Yes,None,Good,Moderate
+F0707,36,Female,Unemployed,2252,1267,985,None,No,6.97,No,No,Self,Good,Low
+F0708,28,Female,Working Professional,68566,32050,36516,Education,Yes,37.33,No,No,NGO,Average,High
+F0709,34,Male,Unemployed,3001,4394,-1393,None,No,0.0,No,No,Self,Average,High
+F0710,43,Male,Working Professional,64650,34994,29656,Vehicle,Yes,44.67,No,Yes,None,Average,High
+F0711,37,Male,Working Professional,66159,71087,-4928,Education,Yes,0.0,Yes,No,NGO,Poor,High
+F0712,62,Male,Unemployed,3721,2211,1510,None,No,6.29,No,No,Family,Poor,High
+F0713,75,Female,Self-Employed,40271,43169,-2898,Personal,Yes,0.0,No,No,Government,Poor,High
+F0714,17,Female,Student,2446,3244,-798,None,No,0.0,No,No,NGO,Good,Moderate
+F0715,74,Male,Unemployed,3757,3989,-232,None,No,0.0,No,No,NGO,Poor,High
+F0716,38,Female,Working Professional,61123,44908,16215,None,No,46.79,Yes,No,None,Poor,Moderate
+F0717,43,Male,Retired,25824,26768,-944,None,No,0.0,No,Yes,NGO,Poor,High
+F0718,44,Male,Working Professional,63300,60960,2340,Vehicle,Yes,44.18,Yes,No,Government,Good,Low
+F0719,52,Female,Unemployed,2661,4497,-1836,None,No,0.0,No,No,NGO,Average,High
+F0720,25,Male,Unemployed,3718,4164,-446,None,No,0.0,No,No,Self,Good,Moderate
+F0721,37,Female,Working Professional,61641,5690,55951,Home,Yes,33.88,Yes,Yes,Self,Average,Moderate
+F0722,42,Male,Working Professional,69619,39214,30405,None,No,54.85,No,No,Self,Average,Moderate
+F0723,46,Female,Retired,28253,6044,22209,None,No,68.58,Yes,Yes,Family,Poor,Moderate
+F0724,32,Female,Self-Employed,32203,6131,26072,Education,Yes,36.16,No,No,Self,Poor,High
+F0725,28,Male,Unemployed,3929,2233,1696,None,No,6.42,No,No,Government,Poor,High
+F0726,70,Male,Self-Employed,38302,19001,19301,Education,Yes,48.34,No,No,Self,Poor,High
+F0727,42,Male,Unemployed,3048,1251,1797,None,No,7.58,No,No,Government,Poor,High
+F0728,73,Female,Working Professional,69544,9035,60509,Vehicle,Yes,33.71,Yes,No,Government,Average,Moderate
+F0729,19,Male,Student,1807,2265,-458,Education,Yes,0.0,No,No,Family,Poor,High
+F0730,34,Male,Self-Employed,44390,2293,42097,None,No,43.93,No,No,Family,Average,Moderate
+F0731,49,Female,Self-Employed,31258,35703,-4445,Home,Yes,0.0,No,No,Self,Average,High
+F0732,58,Male,Retired,33577,2557,31020,None,No,72.82,No,Yes,NGO,Poor,High
+F0733,38,Female,Working Professional,68655,60754,7901,None,No,11.51,Yes,No,NGO,Average,Low
+F0734,35,Female,Working Professional,63279,64897,-1618,Home,Yes,0.0,Yes,Yes,NGO,Poor,High
+F0735,28,Female,Working Professional,69981,35878,34103,Home,Yes,49.23,No,Yes,NGO,Poor,High
+F0736,60,Female,Self-Employed,38948,22548,16400,None,No,42.11,No,No,Self,Good,Low
+F0737,55,Female,Working Professional,62141,59468,2673,Vehicle,Yes,4.3,Yes,Yes,NGO,Good,Low
+F0738,19,Male,Student,1158,1396,-238,None,No,0.0,No,No,Self,Good,Moderate
+F0739,45,Female,Working Professional,64491,38220,26271,Home,Yes,31.98,No,Yes,None,Average,High
+F0740,20,Male,Student,2002,1805,197,None,No,9.84,No,No,None,Poor,High
+F0741,70,Female,Working Professional,67548,46751,20797,Home,Yes,35.74,No,Yes,Family,Average,High
+F0742,30,Male,Unemployed,3462,5416,-1954,None,No,0.0,No,No,Government,Poor,High
+F0743,42,Male,Unemployed,3254,2798,456,None,No,5.57,No,No,NGO,Poor,High
+F0744,38,Female,Working Professional,66608,16393,50215,Personal,Yes,30.5,No,No,None,Average,High
+F0745,26,Male,Unemployed,2018,1342,676,None,No,10.12,No,No,None,Average,Moderate
+F0746,46,Male,Unemployed,3609,4059,-450,None,No,0.0,No,No,NGO,Average,High
+F0747,38,Male,Unemployed,2293,3982,-1689,None,No,0.0,No,No,None,Poor,High
+F0748,50,Male,Unemployed,3529,5386,-1857,None,No,0.0,No,No,Family,Good,Moderate
+F0749,70,Female,Working Professional,67628,61300,6328,Home,Yes,42.7,Yes,Yes,None,Good,Low
+F0750,16,Male,Student,1756,3139,-1383,Education,Yes,0.0,No,No,Government,Good,High
+F0751,39,Male,Self-Employed,40194,21262,18932,Vehicle,Yes,39.4,No,No,Self,Good,Moderate
+F0752,39,Male,Retired,26507,20514,5993,None,No,22.61,Yes,No,Self,Average,Low
+F0753,64,Female,Working Professional,65139,66755,-1616,Vehicle,Yes,0.0,Yes,Yes,Government,Good,Moderate
+F0754,75,Female,Working Professional,60742,38517,22225,None,No,42.86,No,No,NGO,Poor,High
+F0755,28,Male,Unemployed,3013,3142,-129,None,No,0.0,No,No,None,Good,Moderate
+F0756,67,Female,Working Professional,66947,50409,16538,None,No,44.28,No,No,None,Good,Low
+F0757,64,Male,Unemployed,3911,2129,1782,None,No,12.66,No,No,Self,Good,Low
+F0758,33,Female,Unemployed,2479,4074,-1595,None,No,0.0,No,No,Family,Good,Moderate
+F0759,59,Female,Self-Employed,33952,4641,29311,None,No,45.86,No,No,Government,Average,Moderate
+F0760,16,Male,Student,1843,2916,-1073,Education,Yes,0.0,No,No,Self,Poor,High
+F0761,37,Male,Unemployed,3498,1969,1529,None,No,14.63,No,No,NGO,Poor,High
+F0762,35,Male,Retired,37422,4664,32758,None,No,67.15,No,No,None,Average,Moderate
+F0763,35,Female,Self-Employed,34901,35768,-867,Personal,Yes,0.0,No,No,Family,Good,High
+F0764,49,Female,Retired,26995,11722,15273,None,No,69.53,No,No,Self,Average,Moderate
+F0765,65,Female,Working Professional,64766,52762,12004,Education,Yes,18.53,Yes,Yes,Family,Average,Moderate
+F0766,70,Female,Self-Employed,42160,12419,29741,Education,Yes,39.35,No,No,Government,Good,Moderate
+F0767,46,Male,Unemployed,3688,2808,880,None,No,23.86,No,No,Family,Good,Low
+F0768,18,Male,Student,2468,3337,-869,None,No,0.0,No,No,Family,Average,High
+F0769,68,Female,Working Professional,68575,40508,28067,Personal,Yes,49.38,No,Yes,Government,Good,Moderate
+F0770,46,Female,Unemployed,3671,1897,1774,None,No,48.32,No,No,None,Poor,High
+F0771,39,Female,Working Professional,65938,15312,50626,Personal,Yes,46.28,Yes,No,None,Average,Moderate
+F0772,49,Female,Unemployed,3407,3358,49,None,No,1.44,No,No,None,Poor,High
+F0773,63,Female,Working Professional,69681,15506,54175,Vehicle,Yes,47.95,Yes,No,Self,Average,Moderate
+F0774,21,Female,Student,2725,1582,1143,None,No,41.94,No,No,Family,Good,Low
+F0775,57,Female,Retired,38383,26583,11800,None,No,30.74,No,No,None,Good,Low
+F0776,45,Female,Retired,21969,10251,11718,None,No,69.88,Yes,Yes,NGO,Average,Low
+F0777,52,Female,Retired,31666,13427,18239,None,No,57.6,Yes,No,Family,Good,Low
+F0778,43,Male,Retired,27292,18323,8969,None,No,32.86,No,Yes,Self,Good,Low
+F0779,36,Female,Unemployed,2985,4171,-1186,None,No,0.0,No,No,Government,Good,Moderate
+F0780,18,Male,Student,2909,3262,-353,None,No,0.0,No,No,None,Good,Moderate
+F0781,71,Female,Unemployed,2833,2413,420,None,No,7.74,No,No,Self,Average,Moderate
+F0782,16,Male,Student,1144,1723,-579,None,No,0.0,No,No,Family,Poor,High
+F0783,37,Female,Self-Employed,41717,17101,24616,Education,Yes,43.97,No,No,Family,Average,High
+F0784,34,Female,Self-Employed,42418,14488,27930,Vehicle,Yes,30.66,No,No,Self,Good,Moderate
+F0785,56,Male,Retired,39907,8965,30942,None,No,68.58,No,No,None,Average,Moderate
+F0786,28,Female,Unemployed,2788,1829,959,None,No,34.4,No,No,Government,Good,Low
+F0787,67,Female,Unemployed,2708,1410,1298,None,No,7.49,No,No,NGO,Average,Moderate
+F0788,35,Male,Self-Employed,31900,8784,23116,Education,Yes,45.32,No,No,None,Poor,High
+F0789,20,Male,Student,2006,2988,-982,Education,Yes,0.0,No,No,Family,Good,High
+F0790,68,Male,Self-Employed,48584,48090,494,None,No,37.26,No,No,Self,Average,High
+F0791,64,Male,Retired,27480,10974,16506,None,No,63.22,Yes,Yes,Family,Poor,Moderate
+F0792,75,Male,Retired,39966,44671,-4705,None,No,0.0,No,Yes,Government,Poor,High
+F0793,35,Female,Working Professional,69165,28525,40640,Home,Yes,49.89,No,No,Family,Average,High
+F0794,57,Female,Retired,37010,27634,9376,None,No,25.33,Yes,Yes,None,Poor,Moderate
+F0795,57,Male,Self-Employed,30861,10847,20014,Education,Yes,35.43,No,No,Family,Poor,High
+F0796,37,Female,Self-Employed,30500,5873,24627,Vehicle,Yes,30.96,No,No,NGO,Average,High
+F0797,20,Male,Student,1203,2106,-903,None,No,0.0,No,No,Government,Good,Moderate
+F0798,35,Female,Unemployed,2483,3377,-894,None,No,0.0,No,No,Self,Poor,High
+F0799,24,Male,Fresher,12398,7524,4874,Personal,Yes,21.45,No,No,None,Average,High
+F0800,53,Male,Unemployed,2535,3030,-495,None,No,0.0,No,No,None,Average,High
+F0801,25,Male,Self-Employed,41714,16807,24907,Personal,Yes,41.2,No,No,NGO,Average,High
+F0802,58,Male,Unemployed,2429,4525,-2096,None,No,0.0,No,No,Family,Average,High
+F0803,60,Male,Self-Employed,36589,17275,19314,Vehicle,Yes,35.39,No,No,NGO,Average,High
+F0804,27,Male,Self-Employed,41689,18075,23614,None,No,37.4,No,No,Family,Poor,High
+F0805,28,Female,Unemployed,2920,2547,373,None,No,12.77,No,No,NGO,Poor,High
+F0806,24,Female,Fresher,11071,9530,1541,Education,Yes,23.36,Yes,No,Self,Poor,Moderate
+F0807,63,Male,Self-Employed,39340,18117,21223,None,No,30.52,No,No,None,Good,Low
+F0808,36,Male,Retired,24980,16554,8426,None,No,66.51,No,Yes,Family,Poor,High
+F0809,56,Male,Retired,39757,39989,-232,None,No,0.0,Yes,Yes,Government,Poor,High
+F0810,17,Male,Student,1335,1050,285,Education,Yes,20.38,No,No,Family,Poor,High
+F0811,37,Female,Retired,21501,7626,13875,None,No,63.13,Yes,Yes,Government,Average,Low
+F0812,63,Male,Unemployed,2964,1561,1403,None,No,47.33,No,No,Government,Average,Moderate
+F0813,55,Male,Working Professional,65516,32976,32540,None,No,47.43,No,No,Government,Good,Low
+F0814,22,Female,Student,1459,2781,-1322,Education,Yes,0.0,No,No,Government,Poor,High
+F0815,39,Female,Unemployed,3476,3045,431,None,No,7.31,No,No,Government,Poor,High
+F0816,36,Male,Working Professional,61329,28024,33305,Home,Yes,53.22,Yes,No,None,Average,Moderate
+F0817,61,Female,Working Professional,66316,12816,53500,Personal,Yes,33.41,No,Yes,None,Average,High
+F0818,35,Female,Self-Employed,47403,12140,35263,Vehicle,Yes,36.18,No,No,Government,Good,Moderate
+F0819,75,Female,Self-Employed,49940,45789,4151,None,No,8.31,No,No,Self,Poor,High
+F0820,43,Female,Working Professional,68073,36044,32029,Home,Yes,49.34,Yes,Yes,Family,Poor,Moderate
+F0821,22,Female,Student,1477,2210,-733,Education,Yes,0.0,No,No,Self,Good,High
+F0822,16,Female,Student,2661,1754,907,None,No,10.18,No,No,Family,Poor,High
+F0823,40,Male,Retired,29927,3273,26654,None,No,65.29,Yes,Yes,NGO,Good,Low
+F0824,46,Male,Unemployed,2595,1345,1250,None,No,48.17,No,No,NGO,Average,Moderate
+F0825,18,Male,Student,1407,1576,-169,None,No,0.0,No,No,NGO,Poor,High
+F0826,24,Male,Fresher,14574,19452,-4878,Personal,Yes,0.0,No,No,NGO,Good,High
+F0827,30,Female,Retired,30046,18766,11280,None,No,59.97,Yes,No,Self,Good,Low
+F0828,50,Female,Unemployed,3277,4758,-1481,None,No,0.0,No,No,None,Average,High
+F0829,70,Female,Retired,28582,13617,14965,None,No,68.35,No,Yes,Family,Poor,High
+F0830,20,Male,Student,1993,1893,100,Education,Yes,5.02,No,No,Government,Poor,High
+F0831,37,Female,Unemployed,3585,1539,2046,None,No,11.31,No,No,Government,Average,Moderate
+F0832,45,Male,Self-Employed,49933,35098,14835,None,No,47.5,No,No,NGO,Poor,High
+F0833,48,Male,Working Professional,60573,40244,20329,Vehicle,Yes,33.56,No,Yes,Self,Average,High
+F0834,43,Female,Retired,23253,12910,10343,None,No,73.19,No,No,None,Poor,High
+F0835,65,Female,Retired,21734,15958,5776,None,No,26.58,Yes,Yes,Family,Average,Low
+F0836,68,Male,Unemployed,3623,6597,-2974,None,No,0.0,No,No,NGO,Good,Moderate
+F0837,59,Female,Working Professional,65551,25691,39860,None,No,47.5,Yes,No,NGO,Good,Low
+F0838,41,Female,Retired,21416,5646,15770,None,No,66.29,No,Yes,Family,Good,Low
+F0839,51,Male,Retired,36727,10376,26351,None,No,73.41,No,Yes,NGO,Poor,High
+F0840,40,Male,Self-Employed,48409,37319,11090,None,No,22.91,No,No,NGO,Poor,High
+F0841,61,Male,Unemployed,2050,3863,-1813,None,No,0.0,No,No,Family,Average,High
+F0842,57,Female,Unemployed,2072,2118,-46,None,No,0.0,No,No,Self,Good,Moderate
+F0843,34,Female,Retired,34134,10450,23684,None,No,56.27,Yes,Yes,Family,Poor,Moderate
+F0844,61,Male,Self-Employed,37162,35081,2081,Education,Yes,5.6,No,No,NGO,Poor,High
+F0845,33,Female,Unemployed,2117,3072,-955,None,No,0.0,No,No,Family,Poor,High
+F0846,69,Female,Retired,37891,37831,60,None,No,58.75,No,No,Government,Poor,High
+F0847,32,Female,Working Professional,69670,35185,34485,None,No,49.5,No,Yes,Government,Average,Moderate
+F0848,30,Male,Unemployed,2605,2574,31,None,No,1.19,No,No,Government,Good,Moderate
+F0849,61,Female,Self-Employed,37482,26080,11402,Vehicle,Yes,47.85,No,No,NGO,Good,Moderate
+F0850,70,Female,Retired,20470,9415,11055,None,No,73.67,No,No,NGO,Average,Moderate
+F0851,19,Male,Student,1468,1820,-352,Education,Yes,0.0,No,No,Self,Poor,High
+F0852,28,Female,Self-Employed,42330,46364,-4034,Education,Yes,0.0,No,No,None,Good,High
+F0853,53,Male,Self-Employed,34662,36647,-1985,None,No,0.0,No,No,None,Poor,High
+F0854,27,Female,Working Professional,61888,65106,-3218,Vehicle,Yes,0.0,No,No,Family,Good,High
+F0855,40,Male,Retired,29482,7700,21782,None,No,74.25,No,Yes,NGO,Average,Moderate
+F0856,19,Male,Student,1849,2087,-238,Education,Yes,0.0,No,No,NGO,Poor,High
+F0857,53,Female,Retired,31317,20208,11109,None,No,60.29,Yes,No,None,Poor,Moderate
+F0858,62,Male,Self-Employed,35944,24977,10967,Home,Yes,30.51,No,No,NGO,Poor,High
+F0859,38,Female,Unemployed,3563,6404,-2841,None,No,0.0,No,No,Family,Average,High
+F0860,47,Female,Self-Employed,44619,4811,39808,Personal,Yes,33.89,No,No,Government,Good,Moderate
+F0861,31,Female,Unemployed,2877,1848,1029,None,No,11.32,No,No,Self,Average,Moderate
+F0862,58,Female,Self-Employed,42077,4300,37777,Education,Yes,46.45,No,No,NGO,Poor,High
+F0863,55,Male,Unemployed,3640,4700,-1060,None,No,0.0,No,No,Government,Poor,High
+F0864,24,Male,Fresher,11456,7950,3506,Personal,Yes,21.43,No,No,NGO,Good,Moderate
+F0865,73,Female,Unemployed,2879,2181,698,None,No,13.38,No,No,None,Average,Moderate
+F0866,66,Female,Unemployed,2196,1869,327,None,No,11.78,No,No,Family,Good,Low
+F0867,53,Male,Unemployed,2115,2791,-676,None,No,0.0,No,No,NGO,Poor,High
+F0868,28,Male,Self-Employed,38212,30313,7899,Education,Yes,34.44,No,No,Government,Poor,High
+F0869,57,Female,Self-Employed,33257,5891,27366,Vehicle,Yes,40.4,No,No,Government,Good,Moderate
+F0870,48,Female,Unemployed,3615,4726,-1111,None,No,0.0,No,No,Family,Poor,High
+F0871,33,Male,Self-Employed,33290,19129,14161,Vehicle,Yes,32.86,No,No,None,Average,High
+F0872,38,Male,Unemployed,3526,3041,485,None,No,13.75,No,No,None,Poor,High
+F0873,16,Female,Student,2606,3384,-778,None,No,0.0,No,No,Family,Poor,High
+F0874,34,Male,Unemployed,2100,2809,-709,None,No,0.0,No,No,Self,Good,Moderate
+F0875,25,Male,Unemployed,3309,2547,762,None,No,7.69,No,No,NGO,Poor,High
+F0876,71,Male,Unemployed,3485,4426,-941,None,No,0.0,No,No,Family,Average,High
+F0877,64,Female,Self-Employed,48591,14364,34227,None,No,38.18,No,No,NGO,Good,Low
+F0878,42,Female,Working Professional,62046,55297,6749,Vehicle,Yes,10.88,No,No,None,Good,Moderate
+F0879,43,Female,Retired,26479,29960,-3481,None,No,0.0,Yes,Yes,Government,Poor,High
+F0880,26,Female,Working Professional,68337,25930,42407,Vehicle,Yes,50.32,Yes,No,NGO,Average,Moderate
+F0881,69,Female,Working Professional,67921,43525,24396,Personal,Yes,35.92,Yes,No,Government,Good,Low
+F0882,55,Female,Retired,20626,12958,7668,None,No,68.71,Yes,Yes,Government,Poor,Moderate
+F0883,67,Female,Unemployed,3647,6850,-3203,None,No,0.0,No,No,NGO,Good,Moderate
+F0884,74,Female,Working Professional,64540,66180,-1640,None,No,0.0,No,No,Self,Poor,High
+F0885,65,Male,Retired,32678,8847,23831,None,No,57.58,Yes,Yes,NGO,Poor,Moderate
+F0886,20,Female,Student,1094,1493,-399,None,No,0.0,No,No,Self,Good,Moderate
+F0887,27,Male,Retired,27298,11347,15951,None,No,61.72,Yes,Yes,NGO,Poor,Moderate
+F0888,20,Male,Student,1762,1437,325,None,No,18.44,No,No,Government,Average,Moderate
+F0889,33,Female,Retired,32098,8139,23959,None,No,64.92,Yes,No,NGO,Poor,Moderate
+F0890,23,Male,Fresher,13270,11920,1350,Home,Yes,10.17,Yes,No,Family,Good,Low
+F0891,20,Male,Student,2364,1972,392,Education,Yes,20.23,No,No,None,Good,Moderate
+F0892,58,Female,Retired,26165,16584,9581,None,No,61.71,Yes,Yes,Government,Good,Low
+F0893,51,Male,Working Professional,68516,50783,17733,Vehicle,Yes,25.88,Yes,Yes,Self,Good,Low
+F0894,31,Male,Working Professional,69658,15095,54563,Vehicle,Yes,38.24,No,No,None,Good,Moderate
+F0895,69,Male,Unemployed,2287,4192,-1905,None,No,0.0,No,No,Government,Average,High
+F0896,57,Female,Unemployed,3294,2634,660,None,No,6.62,No,No,NGO,Poor,High
+F0897,24,Male,Fresher,14911,14038,873,None,No,5.85,No,No,NGO,Good,Moderate
+F0898,72,Female,Self-Employed,43449,34517,8932,None,No,31.45,No,No,Government,Average,Moderate
+F0899,21,Male,Student,1551,1592,-41,Education,Yes,0.0,No,No,NGO,Good,High
+F0900,29,Male,Self-Employed,41669,1668,40001,Education,Yes,45.63,No,No,NGO,Poor,High
