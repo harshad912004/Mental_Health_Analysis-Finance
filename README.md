@@ -19,14 +19,10 @@ This project simulates financial and mental health conditions across 900 individ
 
 ## 🌐 Live Dashboard
 
-🔗 **View GitHub Live Link:**  
-[Click here to open the live github website](https://harshad912004.github.io/Mental_Health_Analysis-Finance/)  
-*(Note: You can download resources from this github website)*
+🧠 **View Full Project Page:**  
+🔗 [https://harshad912004.github.io/Mental_Health_Analysis-Finance/](https://harshad912004.github.io/Mental_Health_Analysis-Finance/)
 
-🔗 **View Interactive Power BI Dashboard:**  
-[Click here to open the live Power BI dashboard](https://app.powerbi.com/links/pFDzDBSUq6?ctid=f5d7ac83-00fe-464a-97d1-3898bd775434&pbi_source=linkShare)  
-*(Public link via Power BI)*  
-*(Note: You must have Power BI account)*
+> Includes dashboard previews, downloadable files, project insights, and styling — all hosted on GitHub Pages.
 
 ---
 
@@ -103,4 +99,4 @@ This project is shared for academic and portfolio purposes. You are welcome to v
 
 ---
 
-> 🌟 *Built with passion by **Harshad Dhongade** — aspiring Data Analyst & Dashboard Designer.*
+> ✨ *Crafted with passion by Harshad — aspiring Data Analyst & Power BI Developer.*
