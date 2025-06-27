@@ -26,6 +26,11 @@ This project simulates financial and mental health conditions across 900 individ
 
 ---
 
+# 🖼️ Preview
+![Dashboard_Image](1_Overview_Dashboard.png)
+
+---
+
 ## 📂 Project Structure
 
 | File | Description |
