@@ -20,7 +20,7 @@ This project simulates financial and mental health conditions across 900 individ
 ## 🌐 Live Dashboard
 
 🔗 **View GitHub Live Link:**  
-[Click here to open the live Power BI dashboard](https://harshad912004.github.io/Mental_Health_Analysis-Finance/)  
+[Click here to open the live github website](https://harshad912004.github.io/Mental_Health_Analysis-Finance/)  
 *(Note: You can download resources from this github website)*
 
 🔗 **View Interactive Power BI Dashboard:**  
